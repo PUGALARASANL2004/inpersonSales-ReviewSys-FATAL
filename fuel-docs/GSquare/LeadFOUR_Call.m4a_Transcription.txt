@@ -1,0 +1,647 @@
+{
+  "status": "success",
+  "segments": [
+    {
+      "speaker_id": "speaker_0",
+      "start": 0.259,
+      "end": 0.419,
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 0.419,
+      "end": 13.799,
+      "text": "important to us and will be answered shortly. Please stay on the line. Thank you for calling G Square. Your call is important to us and will be answered shortly. Please stay on the line."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 13.92,
+      "end": 14.38,
+      "text": "Stay on the line."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 14.38,
+      "end": 39.12,
+      "text": "Thank you for calling G Square. Your call is important to us and will be answered shortly. Please stay on the line. Thank you for calling G Square. Your-- call is important to us and will be answered shortly. Please stay on the line. Thank you for calling G Square. Your call is important to us and..."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 40.119,
+      "end": 42.559,
+      "text": "Good evening ??? from G Square Housing. How may I assist you, sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 43.52,
+      "end": 44.84,
+      "text": "Good evening. Uh."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 44.84,
+      "end": 45.359,
+      "text": "Good evening, sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 47.02,
+      "end": 50.719,
+      "text": "So, I am calling from Kanyakumari."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 50.879,
+      "end": 52.04,
+      "text": "Okay, sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 52.04,
+      "end": 57.999,
+      "text": "So, I am working in a startup called Axle Labs in Coimbatore."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 58.559,
+      "end": 58.579,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 58.579,
+      "end": 68.179,
+      "text": "So, as they are going to give us a bonus this month, so I am plan-- uh, planning to like invest a bit in real estate."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 69.179,
+      "end": 69.639,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 69.639,
+      "end": 79.379,
+      "text": "If I want to invest in real estate in the Coimbatore side, can you suggest me any growing or active spots?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 79.379,
+      "end": 83.959,
+      "text": "Definitely, sir. What is your good name, sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 83.959,
+      "end": 90.459,
+      "text": "I am Antony, Antony K. Nayakam. I am from Kanyakumari. I am currently working in Coimbatore."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 91.239,
+      "end": 100.059,
+      "text": "Okay, sir. Fine, sir. Currently, we have launched in a new and active location in Kalapati, sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 100.739,
+      "end": 103.219,
+      "text": "Okay. Kalapati is near Pithora, there?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 103.219,
+      "end": 104.719,
+      "text": "Yes, correct, sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 104.719,
+      "end": 105.259,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 105.939,
+      "end": 111.119,
+      "text": "Okay, we have SVB Tech Park, right? Have you heard of it?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 111.119,
+      "end": 113.699,
+      "text": "What? I can't hear you."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 113.799,
+      "end": 115.139,
+      "text": "SVB, SVB Tech Park is there, right?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 115.439,
+      "end": 115.799,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 116.579,
+      "end": 117.679,
+      "text": "Yes, it will be nearby the SVB Tech Park, sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 118.879,
+      "end": 119.599,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 120.259,
+      "end": 125.419,
+      "text": "Okay? The project's name is G Square Tulir. We have just pre-launched our project."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 126.599,
+      "end": 126.999,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 126.999,
+      "end": 130.759,
+      "text": "Okay? So, this is a 6.2 acre property."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 130.999,
+      "end": 131.439,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 132.139,
+      "end": 134.159,
+      "text": "Okay? If you see inside, we have not given only the plot."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 134.999,
+      "end": 135.399,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 135.399,
+      "end": 140.039,
+      "text": "The minimum will start from 1.63 cents and it is available up to maximum 6 cents."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 140.039,
+      "end": 140.179,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 140.179,
+      "end": 145.759,
+      "text": "The cent rate is 9.9 lakhs onwards. Plus BLV will also be added. Okay?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 145.759,
+      "end": 145.839,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 145.839,
+      "end": 154.319,
+      "text": "So, if you take 1.63 cents, 6.8 cents, it will be 16 lakhs, 53,000 onwards you can take. Okay?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 154.319,
+      "end": 154.339,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 154.339,
+      "end": 154.839,
+      "text": "If you see inside, we have not given only the plot."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 154.839,
+      "end": 155.139,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 155.699,
+      "end": 164.519,
+      "text": "Okay? If you see inside the site, you will get 25 amenities in the site."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 164.519,
+      "end": 164.639,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 165.279,
+      "end": 182.819,
+      "text": "Approximately. A park, indoor outdoor game, kids play area, gym, everything will be there. And in the basic features, without giving only the land, blacktop roads, 24x7 CCTV compound wall. Okay? This will be for one year maintenance we are giving."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 183.399,
+      "end": 183.799,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 183.899,
+      "end": 184.019,
+      "text": "Okay?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 184.879,
+      "end": 189.759,
+      "text": "I have a doubt now. What you are saying is housing plot, right?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 190.019,
+      "end": 190.939,
+      "text": "Housing plot only, sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 191.299,
+      "end": 200.779,
+      "text": "Okay, so without housing plot, so like... If I buy now and put it, are there plots where the value will increase in a few days?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 200.879,
+      "end": 206.879,
+      "text": "If you buy this property, there is no need to do immediate construction."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 206.879,
+      "end": 208.479,
+      "text": "No, no."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 208.479,
+      "end": 210.239,
+      "text": "Okay? You can keep it as a plot."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 210.239,
+      "end": 211.379,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 211.379,
+      "end": 217.959,
+      "text": "Okay? You can keep it as a plot and do construction when you want or you can sell it."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 218.059,
+      "end": 218.499,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 219.239,
+      "end": 222.239,
+      "text": "Okay? So, we are giving such plots."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 222.239,
+      "end": 222.239,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 222.239,
+      "end": 223.919,
+      "text": "Residential plot means there is no need to do construction compulsorily."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 224.219,
+      "end": 226.719,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 226.719,
+      "end": 230.419,
+      "text": "For your investment purpose, you can keep the land empty also."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 230.419,
+      "end": 230.699,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 230.699,
+      "end": 232.319,
+      "text": "Okay? So, how much budget have you planned around?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 232.319,
+      "end": 240.999,
+      "text": "Approximately, I and my siblings are saving together. It is around 20 lakhs."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 240.999,
+      "end": 242.859,
+      "text": "Around 20 lakhs?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 242.859,
+      "end": 243.899,
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 243.899,
+      "end": 248.419,
+      "text": "Okay. Are you using this number or are you using any other alternative number?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 249.139,
+      "end": 250.599,
+      "text": "No, this number mostly, this number."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 250.599,
+      "end": 254.079,
+      "text": "Okay, fine. For this number, I will tell you the location and browser completely."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 255.119,
+      "end": 255.579,
+      "text": "Okay, sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 255.579,
+      "end": 260.279,
+      "text": "You check it and come directly to the site and decide. When are you coming to see the site approximately?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 260.859,
+      "end": 262.279,
+      "text": "Now, I am in the town."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 262.419,
+      "end": 263.919,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 263.919,
+      "end": 267.259,
+      "text": "So, mostly I think I will come on Monday. Monday."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 267.419,
+      "end": 268.719,
+      "text": "You will come on Monday."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 268.719,
+      "end": 268.759,
+      "text": "Ah."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 268.759,
+      "end": 271.099,
+      "text": "Okay, sir. For this number, I will tell you the location and browser completely."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 271.659,
+      "end": 272.259,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 272.459,
+      "end": 275.999,
+      "text": "Once you reach Coimbatore on Monday, please tell us. They will arrange for pickup and drop from our side."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 275.999,
+      "end": 276.979,
+      "text": "Sure, sure."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 276.979,
+      "end": 279.559,
+      "text": "So, you come directly to the site and decide. What is your good name, sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 279.939,
+      "end": 280.519,
+      "text": "Anthony, Anthony."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 280.519,
+      "end": 281.079,
+      "text": "Sorry. Antony?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 281.559,
+      "end": 282.079,
+      "text": "Ah, Antony."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 282.699,
+      "end": 284.879,
+      "text": "Okay, sir. Fine. I will tell you the location now."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 284.879,
+      "end": 285.099,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 285.099,
+      "end": 286.399,
+      "text": "Check it and come directly and see."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 286.719,
+      "end": 287.099,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 287.159,
+      "end": 289.739,
+      "text": "Okay, thank you."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 289.739,
+      "end": 297.079,
+      "text": "Like here city out rock ??? Nilambur."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 297.079,
+      "end": 301.959,
+      "text": "Out rocking when you take, if you see in a little less budget, we would have given you a project for seven point ninety lakhs."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 301.959,
+      "end": 301.979,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 301.979,
+      "end": 307.399,
+      "text": "G Square, the wind, we have just launched it, in Panimadai location."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 307.919,
+      "end": 308.339,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 308.919,
+      "end": 311.179,
+      "text": "Okay, so that is also a peak location for you."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 311.179,
+      "end": 311.479,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 311.479,
+      "end": 314.459,
+      "text": "In Coimbatore itself, among the projects we are doing, it is the only one with a low budget."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 314.459,
+      "end": 314.679,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 314.679,
+      "end": 320.539,
+      "text": "That comes and starts from one point five cents. You can take eleven lakh eighty five thousand onwards while taking one point five cents."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 320.539,
+      "end": 320.839,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 320.839,
+      "end": 324.499,
+      "text": "Okay, now I will give you the details of that project also."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 324.499,
+      "end": 325.079,
+      "text": "Okay, okay sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 325.079,
+      "end": 327.599,
+      "text": "If it is possible, visit both the projects and then decide."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 327.599,
+      "end": 328.639,
+      "text": "Visit and... Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 329.339,
+      "end": 329.479,
+      "text": "Okay?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 329.479,
+      "end": 329.599,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 329.879,
+      "end": 331.999,
+      "text": "Fine, sir. Fine. Thank you, sir. Thanks for calling G Square Housing."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 332.059,
+      "end": 332.419,
+      "text": "Thank you."
+    }
+  ],
+  "language_code": "eng",
+  "language_probability": 0.9704855680465698,
+  "diarize": false,
+  "num_speakers": null,
+  "audio_events": [],
+  "exec_time": 30.442
+}

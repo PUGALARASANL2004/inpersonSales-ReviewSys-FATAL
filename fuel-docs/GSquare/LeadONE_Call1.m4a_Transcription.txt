@@ -1,0 +1,612 @@
+{
+  "status": "success",
+  "segments": [
+    {
+      "speaker_id": "speaker_0",
+      "start": 1.559,
+      "end": 1.859,
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 2.639,
+      "end": 15.579,
+      "text": "Thank you for calling G Square. Your call is important to us and will be answered shortly. Please stay on the line. Thank you for calling G Square. Your call is important."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 16.699,
+      "end": 17.34,
+      "text": "Welcome to G Square"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 17.399,
+      "end": 21.039,
+      "text": "Hai sir, Coimbatore la irundhru pesaram."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 21.279,
+      "end": 22.5,
+      "text": "Tell me sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 22.5,
+      "end": 31.179,
+      "text": "Sir, sir, advertisement paathan G Square odathu, that is I was interested. So Koyaputhoor plot thaan paarthut irukken actually, Koyaputhoor, Saravanampatti side."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 32.559,
+      "end": 32.919,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 33.86,
+      "end": 34.899,
+      "text": "Appletu-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 34.899,
+      "end": 35.879,
+      "text": "Koyaputhoor yae-"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 36.059,
+      "end": 39.819,
+      "text": "Range la irundhren sir starting size, plot size."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 39.819,
+      "end": 43.539,
+      "text": "Koyaputhoor la, Koyaputhoor la paathena G Square Saravanan Cityne chollitutu."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 44.159,
+      "end": 44.639,
+      "text": "Range la iruk-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 44.639,
+      "end": 50.859,
+      "text": "Adhuvu paathina unaku Saravanan City, G Square Saravanan City project name la, over four hundred acres sir adhu."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 51.159,
+      "end": 51.519,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 52.18,
+      "end": 56.339,
+      "text": "Three hundred and twenty seven plot iruku, residential and commercial rande ma iruku."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 56.639,
+      "end": 56.979,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 57.039,
+      "end": 61.159,
+      "text": "Residential paathina unaku oru one and a half cent from thirupath cent varikkiruku sir plot size."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 61.599,
+      "end": 62.059,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 62.959,
+      "end": 74.859,
+      "text": "Minimum plot budget paathina over centukku twelve point nine lakhs, over cent costu. Adhillaumaun unaku PLC charges una add ponnavaangu. Preferred location charges velut corner plot, facing ethta maadiri prefer pannura-"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 74.899,
+      "end": 75.699,
+      "text": "Atha namma choose panna-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 75.699,
+      "end": 76.359,
+      "text": "Variaison varum."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 76.359,
+      "end": 79.899,
+      "text": "-ya choice panna adhuku charges extra ilingala."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 80.419,
+      "end": 85.979,
+      "text": "Aama, for example niga thathaadhu corner edukkiringa, facing edha maari prefer pannura appo price la unaku variation varum."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 86.239,
+      "end": 86.579,
+      "text": "Theri."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 86.739,
+      "end": 93.959,
+      "text": "Minimum budget unaku start avaruthu nineteen lakh thirty five thousand la irukkum start avaruthu. Adhika one and a half cent edukkiringe abhi na budget nineteen lakh thirty five thousand varum."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 94.639,
+      "end": 96.939,
+      "text": "One and a half cent ukka, appo over cent ukku kavalavaram sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 97.919,
+      "end": 98.559,
+      "text": "Twelve point nine."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 99.519,
+      "end": 100.859,
+      "text": "Evanga? Twelve point nine angala?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 101.119,
+      "end": 102.419,
+      "text": "Twelve point nine lakh, aama."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 102.419,
+      "end": 104.479,
+      "text": "Twelve point nine lakhs la starting ilingala."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 105.079,
+      "end": 109.139,
+      "text": "Aama, aama approved layout unaku TVC, DTCC and RAR approved."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 109.599,
+      "end": 115.179,
+      "text": "Cheri, cheri, okay. Itha kovaiputtan thandi varra engira projects sir iruku nammaladhu? Coimbatore la."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 115.179,
+      "end": 116.319,
+      "text": "Neelambur la iruku."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 116.919,
+      "end": 117.119,
+      "text": "Cheri."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 117.119,
+      "end": 118.079,
+      "text": "Kovilpalayam."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 118.559,
+      "end": 118.759,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 118.759,
+      "end": 122.599,
+      "text": "Kalapatti and Panimade la irukom open pannine irukom. SAHS colony la unnu iruku."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 122.599,
+      "end": 124.739,
+      "text": "Saranampatti la edhaava plot athukkumanga sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 125.639,
+      "end": 129.899,
+      "text": "Saranampatti la paathina G Square advertisement solitu unaku muunu plot thaan available iruku."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 130.039,
+      "end": 130.419,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 131.839,
+      "end": 139.539,
+      "text": "Adhuvu paathina muunu plot odha size pathina five point six eight cent la one, six point two one cent la one and nine point nine three cent la one."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 139.839,
+      "end": 140.819,
+      "text": "Oh, okay, okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 140.899,
+      "end": 151.759,
+      "text": "Cent odha cost paathina nineteen point five lakhil irundhu start aavom. Adhukillama unaku PLC charges una add ponnavaangu. Preferred location charge, adhukkira plot ukku adhukka maari PLC charges addavanga."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 151.959,
+      "end": 156.899,
+      "text": "Aya edhum sir moonu cent thaan irukkum solra- moonu plot thaan irukkum solaraing, adhukkum PLC add avangala."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 156.939,
+      "end": 159.579,
+      "text": "Ha, ha example adhu edhaathada corner aam, aama."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 160.239,
+      "end": 161.359,
+      "text": "Appadikala, okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 161.779,
+      "end": 162.299,
+      "text": "Aama sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 162.479,
+      "end": 164.439,
+      "text": "Enna, enna facing sir, Saravanampatti."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 165.779,
+      "end": 169.499,
+      "text": "Facing details unakuluke site la vanda na sir inform pannavaanga, sales persons iruppaaga."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 169.759,
+      "end": 169.819,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 169.819,
+      "end": 184.439,
+      "text": "Chennal la facing la moonu plot irukkunthae thaan unga inform pannida. Map la irukkununa- Cheri, cheri, okay. Varra plot details edhava... L and T byepass la unga irukku irukku. Salem tu Kochi koora highway la."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 184.639,
+      "end": 184.999,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 184.999,
+      "end": 187.799,
+      "text": "Pattanam thaanun onni Vellalore gethavara irukku."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 187.799,
+      "end": 188.199,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 189.139,
+      "end": 192.639,
+      "text": "Adhuvu paathina G Square City two point one adhuvu matham nootti paathu acre ngena."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 192.719,
+      "end": 201.639,
+      "text": "Illa sir ipo investment thaan paakaran ippo cent rate kammiya irukira plot edhaava irundha konju better aarukkum. Investment thaan domestic use kisukku paakkala ippo."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 202.719,
+      "end": 213.899,
+      "text": "Investment adhina unaku ella location la namma kitta investment based sir irukku. Coimbatore porthu varikku. Enna namma ellame developing area thaan area iall. Ipa Panimade eduthukinaal umukku seven point nine lakh varum per cent starting."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 214.239,
+      "end": 214.659,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 215.739,
+      "end": 219.119,
+      "text": "Adhuvu paathina angiki minimum over one and a half cent plot size start avum."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 219.219,
+      "end": 220.639,
+      "text": "One and a half cent la irukku illingala."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 221.459,
+      "end": 225.039,
+      "text": "Aama, Kalapatti umaku nalla location thaan investment kaha makaraigaa adhuna."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 225.599,
+      "end": 226.019,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 226.119,
+      "end": 228.779,
+      "text": "Adhuvu paathina nine point nine lakh varum per cent starting."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 228.919,
+      "end": 233.939,
+      "text": "Growth rate edhava irukkum ungal sir? Adhava percentage edhava igalav year vs year increase avum oppi geeria madiri adhava number irukka."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 233.939,
+      "end": 240.279,
+      "text": "Sir ippe adhuvu vanda, ippe adhayal location la pathinayam fifteen lakhs sir over cent. Angathu namma adichanu project onu pottu irukkavangai."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 240.379,
+      "end": 240.599,
+      "text": "Aama."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 240.599,
+      "end": 248.339,
+      "text": "Aama competitor avanga per cent pathinayam fifteen lakhs kuduthala. Namma vanne thaanu thandi povanum. But namma andhu location na nine point nine lakhs la irukut iruku sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 248.339,
+      "end": 249.119,
+      "text": "Kaalapatti la ilingala."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 249.659,
+      "end": 252.359,
+      "text": "Aama, aama. Indian Public School kuthu back side la varum."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 252.879,
+      "end": 262.899,
+      "text": "Okay, okay. Cheri sir appon na edhava doubtna indha number kay contact pannutiraunga illa varathaad contact number irukkanga la?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 263.199,
+      "end": 267.459,
+      "text": "Sir indha numberna anguluke ella details anguluku kuduthalraen. Unaku WhatsApp la unakul share panjaraen."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 267.619,
+      "end": 267.919,
+      "text": "Cheri."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 268.039,
+      "end": 270.979,
+      "text": "Ninga avalu cent ponni paathuraiga sir? Ninga minimum paakaratu?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 271.139,
+      "end": 275.519,
+      "text": "I am minimum three cents investment, three cents investment, invest ponnala irukkengar."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 276.419,
+      "end": 279.379,
+      "text": "Okay, evala budget investment kaa paakaratiraingi sir ninga paakaratiraingi?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 279.699,
+      "end": 287.539,
+      "text": "Budgettuku, budget around over thirty five lakhs kitta iruku. But adhuvu property vechu thaan analyse pannura maari irukkum."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 288.879,
+      "end": 289.479,
+      "text": "Cheri, cheri, sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 290.599,
+      "end": 292.239,
+      "text": "Thirty five lakhs, corporate employee."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 293.539,
+      "end": 294.499,
+      "text": "Aha, okay, sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 294.599,
+      "end": 298.999,
+      "text": "Aha, paakkura. Cheri sir ninga detail..."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 298.999,
+      "end": 301.139,
+      "text": "Ellame unaku investment based thaan irukkum."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 301.559,
+      "end": 301.899,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 301.939,
+      "end": 305.099,
+      "text": "Ninga paaruenga ella detailum kuduthalrainga, location ki once check panniikainga."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 305.359,
+      "end": 305.699,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 305.919,
+      "end": 314.459,
+      "text": "Appuram inga SAHS colony la unnu solral adhu airport back side la varum. Government school kitta varum. Adhuvu paathina nine point nine lakhta starting."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 314.979,
+      "end": 315.599,
+      "text": "Oh, okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 316.579,
+      "end": 320.499,
+      "text": "Kovilpalyam location la iruku, anga paathika unaku twelve point nine lakh varum per cent."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 320.719,
+      "end": 321.119,
+      "text": "Kovilpalyam."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 321.119,
+      "end": 329.599,
+      "text": "Ella location la irukku onminu-one and a half cent, illunna one point six cent, enga maadiri thaan unaku plot odha size start avum. Unaku available nall three cents la available irukku."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 330.259,
+      "end": 336.299,
+      "text": "Okay, sir. Cheri okay sir, ninga detail anupi ivadukka, na check pannutte edhuvaa call kooppanteruvaanga, okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 336.779,
+      "end": 340.039,
+      "text": "Okay, nii check pannittu pudichirunna kooda ninga site la vannu kuda ninge detail pannika."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 340.039,
+      "end": 341.299,
+      "text": "Okay sir, thank you sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 341.459,
+      "end": 342.819,
+      "text": "Ore unga name matra tharajikalamaa?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 343.459,
+      "end": 344.779,
+      "text": "Rauf, R A U F."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 346.119,
+      "end": 346.579,
+      "text": "Sorry sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 347.159,
+      "end": 348.619,
+      "text": "R A U F, Rauf."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 348.679,
+      "end": 352.139,
+      "text": "R A U F, oh okay sir. Indha number kay kudukal'la ngal ungalku?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 352.139,
+      "end": 354.379,
+      "text": "Aya indha number key auto confirm panniyiru."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 355.299,
+      "end": 356.399,
+      "text": "Okay sir, thank you."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 356.459,
+      "end": 356.779,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 357.179,
+      "end": 361.539,
+      "text": "Thank you, sir."
+    }
+  ],
+  "exec_time": 37.991
+}

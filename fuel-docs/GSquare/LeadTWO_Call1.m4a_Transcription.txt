@@ -1,0 +1,762 @@
+{
+  "status": "success",
+  "segments": [
+    {
+      "speaker_id": "speaker_0",
+      "start": 0.039,
+      "end": 5.459,
+      "text": "Good evening, <foreign_language>. How may I assist you? <foreign_language>"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 6.059,
+      "end": 13.06,
+      "text": "Ah, hi madam. Ah, na oru advertisement paathan enna mari G Square plots in Villas irukku. So, ah-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 13.139,
+      "end": 13.659,
+      "text": "Okay, ma'am."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 13.659,
+      "end": 17.659,
+      "text": "I am trying to buy a plot for, ah, investment. Adhukku regarding-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 17.659,
+      "end": 20.26,
+      "text": "Okay, sir. <foreign_language>"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 20.26,
+      "end": 22.719,
+      "text": "Ning, engirundhu sir parichatingi. Chennai-yirundhu parichitingi na, Coimbatore-ndru parichitingi?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 22.719,
+      "end": 23.3,
+      "text": "Aah, Coimbatore."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 24.639,
+      "end": 25.379,
+      "text": "Coimbatore-ndra?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 25.459,
+      "end": 25.979,
+      "text": "Aaama, aaama."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 27.019,
+      "end": 29.02,
+      "text": "Okay, sir, okay. Unka good name terinjukilaamaangar, sir?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 29.679,
+      "end": 36.5,
+      "text": "Ah, like, na, I reside at <foreign_language>. Like I want enne, enne plots elam available aa iruku Coimbatore-laa. Vela-"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 36.5,
+      "end": 36.98,
+      "text": "Aga sir?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 37.319,
+      "end": 37.579,
+      "text": "Yah."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 38.399,
+      "end": 39.519,
+      "text": "Solluraingi. Unga good name, sir?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 39.719,
+      "end": 40.539,
+      "text": "Siddiq, Siddiq, Siddiq."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 41.399,
+      "end": 47.3,
+      "text": "Siddiq. Okay, sir. Fine. Ithu location vanthu paarthi na unukku eng, engira naga panni irukkum appadina, ah, L and T pipeline."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 47.779,
+      "end": 47.959,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 47.959,
+      "end": 50.819,
+      "text": "Okingala, Saravanapatti, Neelambur- Kovaikudur."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 50.979,
+      "end": 51.299,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 51.439,
+      "end": 52.539,
+      "text": "Okeyingala, Kalapathi."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 52.899,
+      "end": 52.959,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 52.959,
+      "end": 54.239,
+      "text": "Then Panimadai."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 54.799,
+      "end": 55.12,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 55.619,
+      "end": 56.899,
+      "text": "Okeyingala, then Ramanathapuram."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 57.179,
+      "end": 57.239,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 57.239,
+      "end": 57.899,
+      "text": "Then Sudhapuram."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 58.459,
+      "end": 58.759,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 58.779,
+      "end": 60.839,
+      "text": "Kovai Kudur. Indha surroundingsla pani irukkom."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 60.899,
+      "end": 61.279,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 61.699,
+      "end": 63.859,
+      "text": "Saringala. Ipp o ninge enga paakira maria plan pani irukkeengi?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 63.859,
+      "end": 74.859,
+      "text": "Ah, enakku vanjchu tu, ah, the Saravanapatti, Kovai Kudur region would be fine. And that chooses, ah, ah, the IT park irukka elaga ilanga, KGICL. So adhukku nearby-a irukira plots would be preferred."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 75.859,
+      "end": 77.579,
+      "text": "FBB Tech Park pakkatilla irukka-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 77.579,
+      "end": 83.759,
+      "text": "Haan, SCB ilanga. Ah, SCB pakkatla but adha Keeranatham, ah, IT park irukilla. Indiagate."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 84.079,
+      "end": 85.159,
+      "text": "Aamaanga. Aamaanga."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 85.159,
+      "end": 87.399,
+      "text": "Indialand, Indialand IT park adhukku pakkatla."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 87.619,
+      "end": 88.179,
+      "text": "Indialand?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 88.439,
+      "end": 88.739,
+      "text": "Ah."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 88.759,
+      "end": 98.459,
+      "text": "Okay, okay, okay, okay. Fine sir. Ippo actually anda surroundings eduthinga appadina vanthu unukku, uh, ambodai project vanthu ippo pudhusa vanthu pudu project prelaunch pani irukkum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 98.559,
+      "end": 98.799,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 98.799,
+      "end": 101.219,
+      "text": "G Square Tulirangal soliti irukkum. Namma Kalapathi irukkulla-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 101.239,
+      "end": 101.959,
+      "text": "Aama, aama."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 102.819,
+      "end": 106.239,
+      "text": "Yes sir, Kalapathi-yil irundu towards othu paarthina vanthu unukku Guruvempalayam pura roadla-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 106.439,
+      "end": 106.639,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 106.639,
+      "end": 109.579,
+      "text": "Right hand side illama left hand side eduthinga appadina nammodai project varunga."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 109.839,
+      "end": 115.799,
+      "text": "Okay. Exactly Kalapathi-nu, uh, uh, enak landmark odu solaraingala, sir? Engirinto."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 116.799,
+      "end": 121.439,
+      "text": "Exactly ungire Kalapathi-nu. Namma vanthu, ah, VG Engineering College theriyo illiga?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 121.439,
+      "end": 122.119,
+      "text": "Aama, aama."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 122.899,
+      "end": 128.159,
+      "text": "Andha VG Engineering College-kulla munnadi iru. Ungile Hidden Garden varum. Hidden Garden-ukku opposite la thaa ambodai project inge."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 128.219,
+      "end": 128.899,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 129.799,
+      "end": 133.039,
+      "text": "Okeyga. So idhu vanthu paarthi ngala ippo project vannu actually prelaunch pani irukkum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 133.159,
+      "end": 133.379,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 133.379,
+      "end": 137.679,
+      "text": "Odu six point six acre property completely residential, one point six eight cents-irundu unukku start agadhu."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 138.079,
+      "end": 138.179,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 138.179,
+      "end": 142.219,
+      "text": "Maximum six cents varikku availability irukku. Cent rate vanthu nine point nine lakhs onwards kiri kuduthuku irukkum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 142.219,
+      "end": 142.559,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 142.599,
+      "end": 143.139,
+      "text": "Plus vanthu ungire-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 143.139,
+      "end": 146.839,
+      "text": "Ish completely residential c- gated community mariga la madam?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 147.179,
+      "end": 148.859,
+      "text": "Secured community maria varum sir ungile."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 148.859,
+      "end": 149.539,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 150.379,
+      "end": 157.239,
+      "text": "Nambodha ela project la ungile secured community thaan. Ungire vanthu oru one point six eight cents edukirika appadira ppo sixteen lakhs sixty-three thousand onwards kiri nikku eduthikala."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 157.239,
+      "end": 157.239,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 157.239,
+      "end": 159.119,
+      "text": "And ulla vanthu paarthi ngadira ppo sixteen lakhs sixty-three thousand onwards kiri nikku eduthikala. And ulla vanthi paarthi ngadira ppo sixteen lakhs sixty-three thousand onwards kiri nikku eduthikala. And ulla vanthi paarthi ngadira ppo sixteen lakhs sixty-three thousand onwards kiri nikku eduthikala."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 159.119,
+      "end": 159.119,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 159.119,
+      "end": 161.879,
+      "text": "And ulla vanthi paarthi ngadira ppo sixteen lakhs sixty-three thousand onwards kiri nikku eduthikala. Okay, illa ullu vanthi paarthi ngadira ppo sixteen lakshas approximately kuduthirukom."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 162.099,
+      "end": 162.359,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 162.379,
+      "end": 173.379,
+      "text": "Okeyga. Ulle unga parking rate unta rupatu pani irukkum. Unaka basic features la blacktop road, twenty four by seven CCTV, seven compound wall. Then ungile ambodha one year maintenance kudi kuduthutirukom."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 173.379,
+      "end": 173.999,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 173.999,
+      "end": 176.839,
+      "text": "Okeyga. Ippa ninga around evlo budget la paakira maria plan pani irukkeengi Siddiq sir?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 176.839,
+      "end": 181.259,
+      "text": "Oh, I am looking for around, ah, five to six cents edukaantha plan iruku."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 182.119,
+      "end": 187.679,
+      "text": "Five to six cents edukira maria plan pani irukkeengala. Okay, okay. Intha number thaa use pannuraingala velo ver other alternative number use pannuraingala-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 187.719,
+      "end": 194.579,
+      "text": "This is my, ah, like, ah, ah, this is not my personal number, but I use it for, ah, business calls and so on."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 196.419,
+      "end": 199.059,
+      "text": "Okay, thenta number ke ungire- untha number leyeh WhatsApp irukkugala?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 199.099,
+      "end": 199.959,
+      "text": "Aah irukuke, irukuke madam."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 200.559,
+      "end": 206.639,
+      "text": "Irugala? Okay sir. Let me one thing, ipo na unukku location map, routes elame, namba site visit coordinator kit vanda completely provide panna solraingi."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 206.839,
+      "end": 207.019,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 207.019,
+      "end": 210.139,
+      "text": "Saringala. Ning ala check pannita once ninka weekend direct site vanga."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 210.259,
+      "end": 210.479,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 210.479,
+      "end": 215.679,
+      "text": "Vandhu property completely paringe. Enna project ippon thaan ungile prelaunch pani irukkum appadira thala naal budget kammiya irukkum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 215.799,
+      "end": 216.139,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 216.219,
+      "end": 219.539,
+      "text": "Okeyga. After launch appra vanthi paarthina obviously ungile budget vanthi increase ayidum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 219.559,
+      "end": 228.579,
+      "text": "Okay. Ippo vanthuche, complete, ah, thanda entire plot-oda size evolong madam? Evolou plots thanithaniya edupanira achchutto?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 228.579,
+      "end": 230.859,
+      "text": "Maximum six cent varike irukku."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 230.859,
+      "end": 232.639,
+      "text": "Maximum six cent. Each plot vanthuche-"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 232.859,
+      "end": 232.879,
+      "text": "Mmm."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 232.879,
+      "end": 235.679,
+      "text": "Enna size madam? Different, different sizes la irukkongala."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 236.219,
+      "end": 240.039,
+      "text": "Aama, aama anga sir. Ungile minimum vanthu one point six three, six eight-laya irukku start agadhu."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 240.099,
+      "end": 240.979,
+      "text": "Okay, one point six three."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 240.979,
+      "end": 245.939,
+      "text": "Okeyga. So maximum six varikuma irukku. In between ungile enna venuma, enna maria plots venuma adhu nikku eduthikala."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 246.359,
+      "end": 253.439,
+      "text": "Andha phasing wise madam- Andha, in case antha, epdi plot size, andha house facing ndhantha vishayela."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 254.559,
+      "end": 261.359,
+      "text": "Yaar adhum aye iruku sir. East facing or north facing corner plot, east corner ah, then south corner enduma elame ungile availabilities irukku."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 261.459,
+      "end": 264.339,
+      "text": "Okay, adhuka price, pricing different change agungaala? Facing and-"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 264.339,
+      "end": 264.639,
+      "text": "Yaama, yaama."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 264.639,
+      "end": 265.019,
+      "text": "-Corner..."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 265.259,
+      "end": 266.359,
+      "text": "PLC kandipa irukum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 266.559,
+      "end": 267.439,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 267.799,
+      "end": 272.839,
+      "text": "Okeyga kandipa ungile availabilities irukum. Adhu ning extra pay pandra marathan irukum. Ning prefer pannurainga appendra budget la."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 273.059,
+      "end": 273.199,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 273.199,
+      "end": 276.899,
+      "text": "Okeyga. Adhu enna amount varum appadira thaan ungile sales person thaan site la soluvanga."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 276.919,
+      "end": 277.279,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 277.319,
+      "end": 280.899,
+      "text": "Okeyga. Ippo na enna pannara appadina location map, routes elame ippa na unakku pudiya solraingi."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 280.899,
+      "end": 281.619,
+      "text": "Alright ma'am."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 281.619,
+      "end": 286.719,
+      "text": "Okeyga. Nininga direct site-ah vanda pathutu further I will decide it madam. Vara maria thaan ippo varuvayenga therinjukilama site pathirathukuku?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 286.879,
+      "end": 291.739,
+      "text": "Probably indha week irukkaadha madam. Next week maybe, ah, next weekend maybe vara mari irukkum."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 291.859,
+      "end": 298.799,
+      "text": "Next weekend vara mari irukkumga? Saringa ippo na location map routes kuruka solraingi. Ningu van check pannita directly one site-ah vanda pathutu further I will decide panunga."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 298.979,
+      "end": 299.539,
+      "text": "Alright madam."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 299.559,
+      "end": 306.219,
+      "text": "Okeyga. Iyena site-ila vanuthu paarthi na unakae surrounding sputti vanthu fifteen lakhs varikku unukae budget poluthe irukkum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 306.419,
+      "end": 306.639,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 306.639,
+      "end": 309.779,
+      "text": "Okeyga. Adhu mattu alama namba special offers may vanuthu provide pani irukkum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 309.979,
+      "end": 310.699,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 311.199,
+      "end": 314.799,
+      "text": "Okeyga. So appadira ppo once unika directly vanda paakumpo innum ungile oru better option kareikai."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 314.879,
+      "end": 326.699,
+      "text": "Okay. Enak indha radiusleye vara adharchi plots irukkaingala, kalapathi ilama vagathula? Yaa kiranatham bhagathula, saravanapatti andhanda, andhanda radiusla, kalapathi..."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 326.699,
+      "end": 330.659,
+      "text": "Saravanapatti ila vanuthu paarthi na unikae Prozone mall irukku illiga?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 330.759,
+      "end": 331.539,
+      "text": "Aama, aama."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 332.279,
+      "end": 336.379,
+      "text": "Yes, Prozone mall-ke backside la on project vanthu namba pani irukkum. G Square Urbanisehnnu solichu ngai."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 336.539,
+      "end": 338.979,
+      "text": "Okay, ipo on going la iruku la- Prozone backside?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 339.899,
+      "end": 348.439,
+      "text": "Aah, available iruku ngai. Ithu vanthoru oru midipo vanthu unukku periya carpet manatha availability iruku. 5.68 cents-laya unukku minimum starting. Ocha plot manatha availability iruku."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 348.439,
+      "end": 349.019,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 349.019,
+      "end": 352.299,
+      "text": "Okeyga. Cent rate vanthuka paarthika nina nineteen point fifty lakhs onwards kuduthukku iruku."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 352.299,
+      "end": 354.299,
+      "text": "Nineteen point five varuthuka la? Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 354.359,
+      "end": 361.079,
+      "text": "Yeah, nineteen point five varum plus PLC varum. Ningor uku five point six eight cents edukirika appadira ppo one crore eleven lakhs onwards kiri nikku eduthikala."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 361.179,
+      "end": 363.079,
+      "text": "Okay, okay, okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 363.079,
+      "end": 365.499,
+      "text": "Okeyga. Ippo na indha project-oda detail ippo na unakku kudukiraingi."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 365.739,
+      "end": 365.979,
+      "text": "Sure."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 365.979,
+      "end": 372.419,
+      "text": "Saringa. So renduma ippo na unakku share pannaraingi. Ninga check panita directly once one property weekend next weekend vanda pathichu certain decide panunga. Saringa?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 372.419,
+      "end": 374.039,
+      "text": "All right, all right ma'am."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 374.039,
+      "end": 376.999,
+      "text": "Okay sir, fine. Thank you sir. Thanks for calling <foreign_language>. Have a great day sir."
+    }
+  ],
+  "exec_time": 57.803
+}

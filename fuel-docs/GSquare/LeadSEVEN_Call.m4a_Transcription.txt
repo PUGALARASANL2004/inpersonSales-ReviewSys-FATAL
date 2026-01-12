@@ -1,0 +1,779 @@
+{
+  "status": "success",
+  "segments": [
+    {
+      "speaker_id": "speaker_0",
+      "start": 2.519,
+      "end": 12.739,
+      "text": "Thank you for calling G Square. Your call is important to us and will be answered shortly. Please stay on the line. Thank you for calling."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 14.5,
+      "end": 16.6,
+      "text": "Good afternoon. This is Steve, how may I assist you?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 17.18,
+      "end": 20.899,
+      "text": "Uh, sir, uh, I'm looking for plots in Coimbatore."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 21.799,
+      "end": 24.459,
+      "text": "Okay, in which location are you looking for a property, sir?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 24.579,
+      "end": 25.559,
+      "text": "Uh, Coimbatore, sir."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 26.199,
+      "end": 28.879,
+      "text": "Uh, yeah, i-i-in which location, sir, in Coimbatore?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 29.199,
+      "end": 36.46,
+      "text": "Uh, Coimbatore, uh, any prime locations, sir, like, uh, Codissa, Hope's and, uh, Peelamedu."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 36.559,
+      "end": 42.78,
+      "text": "Uh, Peelamedu, okay, or else we are doing in nearby to the airport, sir. We are doing in the ba-diagonal backside of airport."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 43.119,
+      "end": 43.6,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 45.02,
+      "end": 48.659,
+      "text": "Can I explain the property details, sir? This also mainly-- main area, sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 48.819,
+      "end": 49.34,
+      "text": "Uh, ."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 49.34,
+      "end": 49.34,
+      "text": ", sir. ."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 49.34,
+      "end": 49.34,
+      "text": "Ah, uh, ."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 49.34,
+      "end": 49.34,
+      "text": "."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 49.34,
+      "end": 49.34,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 49.34,
+      "end": 49.34,
+      "text": "So, ."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 49.34,
+      "end": 49.399,
+      "text": "Yes. ."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 49.399,
+      "end": 49.399,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 49.399,
+      "end": 49.399,
+      "text": "So, ."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 49.399,
+      "end": 49.399,
+      "text": "Okay. Uh..."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 49.459,
+      "end": 49.459,
+      "text": "."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 49.459,
+      "end": 50.68,
+      "text": "The-- the document, like I'm asking."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 50.68,
+      "end": 51.239,
+      "text": "Yes. ."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 51.239,
+      "end": 51.239,
+      "text": "Okay. Okay. Uh..."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 51.5,
+      "end": 51.5,
+      "text": "."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 51.5,
+      "end": 52.579,
+      "text": "Okay. So, will that be included in the documents?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 52.579,
+      "end": 53.579,
+      "text": "Yes. ."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 53.579,
+      "end": 54.0,
+      "text": "Anything?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 54.0,
+      "end": 54.68,
+      "text": "Yes, everything will be-- ."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 54.68,
+      "end": 54.68,
+      "text": "So, that's why I'm asking you if that document is there."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 54.68,
+      "end": 63.339,
+      "text": "That's what I'm saying, sir, if you come to the site, they will give you all the complete documents, sir. No, no, there won't be any such problem, sir. No issues. Okay? Everything will be up to mark. Everything will be perfect, sir."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 63.339,
+      "end": 63.339,
+      "text": "Maybe in the future, uh, if a problem like that arises, even then, from your side..."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 63.339,
+      "end": 63.339,
+      "text": "We'll take care of it ourselves. There won't be any problem."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 63.339,
+      "end": 63.339,
+      "text": "Okay, so you'll include all that in that, right? In those documents?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 63.339,
+      "end": 63.339,
+      "text": "Yes, everything will be there for you. There won't be any problem. Even if there is a problem, our G Square will take care of it, sir. You don't worry about it."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 63.339,
+      "end": 65.099,
+      "text": "No, I'm asking you if that's in that document."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 65.099,
+      "end": 67.759,
+      "text": "That's what I'm saying, sir. If you come to the site, they will give you all the complete documents, sir. How is it? G Square will take care of everything, sir. You won't have any problem in the future regarding our site."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 67.759,
+      "end": 68.639,
+      "text": "No, bro, what I'm asking is, if there is any problem in the future on that site, G Square will take care of it, I'm asking you if there is an assurance that G Square will take care of it in the document."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 68.639,
+      "end": 68.959,
+      "text": "They will give it, sir. They will give the assurance, definitely."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 68.959,
+      "end": 68.979,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 68.979,
+      "end": 72.679,
+      "text": "So, this is 3.78 cents, 3.78 acres, 74 plots, okay?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 72.679,
+      "end": 72.759,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 72.759,
+      "end": 80.439,
+      "text": "1.78 cents to 5.29 cents. The rate per cent will start from nine lakh ninety thousand."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 80.439,
+      "end": 80.819,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 80.819,
+      "end": 90.659,
+      "text": "An additional PLC charge will also be added. Now, if you take one point seven eight cents, the budget will be seventeen lakh sixty-two thousand. Other than this, there are fifteen plus amenities. Children's play area, park, gym, road, street light, compound wall, CCTV camera."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 90.659,
+      "end": 91.159,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 91.759,
+      "end": 105.779,
+      "text": "We will do one year free maintenance. So, how many cents are you looking for, what is your budget, sir?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 105.779,
+      "end": 105.779,
+      "text": "Uh, around three to four cents."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 105.779,
+      "end": 105.879,
+      "text": "What is your budget plan, sir?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 105.879,
+      "end": 106.099,
+      "text": "Uh, budget, actually, if you see, budget is not a problem."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 106.099,
+      "end": 106.099,
+      "text": "Okay, fine."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 106.099,
+      "end": 106.799,
+      "text": "Uh, it will be good if it is a bit luxurious. I think it will be correct. Spacious."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 106.799,
+      "end": 110.539,
+      "text": "Okay, I will... My team... You like this site very much, sir. It is a good main location. When we say airport, you yourself know how that area will be, right sir?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 110.619,
+      "end": 120.619,
+      "text": "SHS colony will be a little congested, I think. Because from this main location, it will be correct to go to the office and commute. That's what I saw."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 120.619,
+      "end": 121.719,
+      "text": "Okay, have you seen anything like Kalapati, Neelambur?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 121.719,
+      "end": 134.539,
+      "text": "Uh, Kalapati, Neelambur has gone further. Like, here, Hope's, Peelimedu. In Hope's, there is a place near D-Mart, I think. G Square."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 134.539,
+      "end": 138.359,
+      "text": "Uh, actually, if you see now, we have Peelimedu nearby, I will tell you where the projects are. Do you see L and T bypass? L and T bypass, uh, or Ramanathapuram."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 138.359,
+      "end": 139.759,
+      "text": "No, all that has gone a little far. The office is exactly in Hope's."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 139.759,
+      "end": 139.759,
+      "text": "Hope's College?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 139.759,
+      "end": 139.759,
+      "text": "Yes, Hope's is at the bus stop. There is that Kamarajar Road, right? To go to Singanallur."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 139.759,
+      "end": 139.759,
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 139.759,
+      "end": 139.759,
+      "text": "It is there."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 139.759,
+      "end": 140.659,
+      "text": "Then you can see this, sir. You can see Ramanathapuram. It is very nearby from Singanallur. It is only five minutes for you."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 140.659,
+      "end": 145.019,
+      "text": "No, there is no plot in this Hope's. There will be a G Square near D-Mart, I think."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 145.019,
+      "end": 149.939,
+      "text": "What is near D-Mart is all over. You are asking about the property which is near Varadarajapuram, right?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 149.939,
+      "end": 149.959,
+      "text": "Yes, that's it."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 149.959,
+      "end": 149.999,
+      "text": "It is over. It is over. But from there, this site is nearby. Only two kilometers."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 149.999,
+      "end": 149.999,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 149.999,
+      "end": 150.299,
+      "text": "Two kilometers. Woodland. G Square Woodland."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 150.299,
+      "end": 153.899,
+      "text": "Yes, I see. What is the rate there? Cent..."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 153.939,
+      "end": 156.179,
+      "text": "If you see that, we have put it exactly in the backside of the central studio. Seven acres and hundred plots."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 156.179,
+      "end": 157.619,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 157.619,
+      "end": 159.799,
+      "text": "The minimum is from one and a half cents to four point seventy-six cents."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 159.799,
+      "end": 160.079,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 160.219,
+      "end": 174.819,
+      "text": "One cent rate starts from twenty-one lakh ninety thousand. An additional PLC charge will also be added. If you take one and a half cents land, it will come to thirty-two lakhs eighty-five thousand. So, this is a detail. We are doing it with twenty plus amenities, sir. Children's play area, park..."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 175.339,
+      "end": 187.419,
+      "text": "How much did you say for one cent?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 188.359,
+      "end": 302.039,
+      "text": "Uh, twenty-one point nine ninety."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 302.039,
+      "end": 302.939,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 302.939,
+      "end": 308.879,
+      "text": "Twenty-one lakh ninety thousand. So, both... I will tell you the details. Can I know your name? Good name?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 309.299,
+      "end": 310.359,
+      "text": "Uh, name, Dharani."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 311.479,
+      "end": 314.519,
+      "text": "Okay, uh, first two offers are there for you. There is an offer called Scan and Win."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 314.519,
+      "end": 315.799,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 315.799,
+      "end": 322.319,
+      "text": "After that, we will give a discount of up to two lakhs in the pricing. Other than that, there is an EMI offer. Till January, your EMI will be taken care of by G Square."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 322.479,
+      "end": 322.739,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 322.799,
+      "end": 327.219,
+      "text": "Further, I will ask our team to contact you. When did you come and visit? What did you come and see?"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 327.219,
+      "end": 329.619,
+      "text": "Uh, for now, we are seeing in many places."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 329.619,
+      "end": 329.619,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 329.619,
+      "end": 333.019,
+      "text": "So, we haven't confirmed yet. So, how much did you say in SIHS?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 333.019,
+      "end": 339.379,
+      "text": "That is nine po-- uh, one second, sir. Stay on the line. It will be 9.9 lakhs per cent."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 340.139,
+      "end": 343.959,
+      "text": "Oh, so rather than SIHS, are you saying Ramanathapuram is a prime location?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 343.959,
+      "end": 349.739,
+      "text": "Yes, prime location. You had asked, right? Hope's College is nearby. That is a good location for you."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 349.739,
+      "end": 350.219,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 351.499,
+      "end": 351.759,
+      "text": "So-"
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 351.779,
+      "end": 353.319,
+      "text": "So, can we know why there is so much price difference?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 353.319,
+      "end": 366.599,
+      "text": "Sir, that is because of the area. Because our own-- the property called Woodland is very nearby the race course. If you look at the race course, they are giving a cent for sixty lakhs, thirty lakhs and forty lakhs. That area market price."
+    },
+    {
+      "speaker_id": "speaker_2",
+      "start": 366.639,
+      "end": 367.059,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 367.768,
+      "end": 375.107,
+      "text": "We are the only ones in the market doing it at a lower cost. You come and see for yourself, the site will definitely give you a valuable amount. For the amount you give, it will be valuable."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 376.088,
+      "end": 376.528,
+      "text": "Hmm."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 376.567,
+      "end": 382.148,
+      "text": "I will ask them to contact you from our team. There is an offer called Scan and Win."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 382.167,
+      "end": 383.607,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 383.607,
+      "end": 389.827,
+      "text": "After that, we will give a discount of up to 2 lakhs. There is an EMI offer. Till January 2026, your EMI will be taken care of by G Square."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 389.827,
+      "end": 391.807,
+      "text": "Okay, now..."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 392.187,
+      "end": 394.048,
+      "text": "Tell me, sir."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 394.048,
+      "end": 397.207,
+      "text": "Those houses... Villas, how is it? Is it 2 BHK, 3 BHK or how are you doing it?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 397.207,
+      "end": 405.867,
+      "text": "We will build it for you, sir. We have a build assistance team. We will hand over the property in 9 to 12 months."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 405.867,
+      "end": 408.387,
+      "text": "Oh, you are saying it will be done in 9 to 12 months. You are saying that 3 BHK can be built with basement."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 408.387,
+      "end": 416.767,
+      "text": "Yes, in 9 to 12 months. Our property is ready. It is in ready to construct. You come and see for yourself. You will get an idea when you see it."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 416.767,
+      "end": 418.507,
+      "text": "Okay, I called to enquire. Because I have been asking for 2-3 pages. That's why I called. So, did you see all that or...?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 418.667,
+      "end": 430.047,
+      "text": "You can build it according to your decision. There is also a customized option available."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 431.027,
+      "end": 435.767,
+      "text": "Okay. So, on what basis are you building the plots already built?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 436.187,
+      "end": 441.567,
+      "text": "Actually, the customers have just launched it. The customers have started from our side."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 441.848,
+      "end": 442.267,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 442.267,
+      "end": 447.527,
+      "text": "You come and buy it. Our team will show you how to do the plan. We don't have a model house."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 448.028,
+      "end": 448.467,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 448.967,
+      "end": 451.987,
+      "text": "So, you will have a plan and elevation on how to do it."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 452.067,
+      "end": 457.668,
+      "text": "Is that so? But that elevation, are you building it according to Vastu or not? Like space should be placed."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 457.668,
+      "end": 468.227,
+      "text": "There is a concession team. They will have all the details, sir. We can't give any false commitment. You come and buy it. I will coordinate with you when you visit the site."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 468.227,
+      "end": 471.607,
+      "text": "Okay, then I will see you and call you back."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 471.607,
+      "end": 475.327,
+      "text": "Okay, should I ask them to give you all the details? All the side-up details?"
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 475.327,
+      "end": 477.547,
+      "text": "Yes, maybe WhatsApp too."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 477.547,
+      "end": 481.567,
+      "text": "Is there any other number other than this number?"
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 481.707,
+      "end": 482.787,
+      "text": "No, no, this is the number."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 482.787,
+      "end": 487.007,
+      "text": "Okay, I will ask them to call you back on this number. Thank you, sir. Thank you for joining G Square Avenue."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 487.007,
+      "end": 487.667,
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 487.667,
+      "end": 490.047,
+      "text": "When will you come and see? If you come and see."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 490.047,
+      "end": 494.027,
+      "text": "Uh, exactly, I can't say. But I will definitely call you back."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 494.027,
+      "end": 495.788,
+      "text": "Okay, okay, okay. Sure, thank you, sir."
+    },
+    {
+      "speaker_id": "speaker_3",
+      "start": 495.788,
+      "end": 497.707,
+      "text": "Thank you, sir."
+    }
+  ],
+  "language_code": "eng",
+  "language_probability": 0.9196444749832153,
+  "diarize": false,
+  "num_speakers": null,
+  "audio_events": [],
+  "exec_time": 29.698
+}

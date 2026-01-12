@@ -1,0 +1,426 @@
+{
+  "status": "success",
+  "segments": [
+    {
+      "speaker_id": "speaker_0",
+      "start": 0.039,
+      "end": 0.819,
+      "text": "சொல்லுறீங்களா, ஹலோ."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 1.839,
+      "end": 2.239,
+      "text": "ஹலோ."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 2.599,
+      "end": 4.159,
+      "text": "ஆஹ், சொல்லுங்க மேடம், ஹலோ."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 4.839,
+      "end": 7.499,
+      "text": "சார், நான் ஜி ஸ்க்வேர் ஹவுசிங் அண்ட் தபாஷி ஸ்டீட், சார்."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 7.839,
+      "end": 8.159,
+      "text": "ஓகே."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 9.099,
+      "end": 12.119,
+      "text": "சார், ஃபியூ மினிட்ஸ் பாத்தா உங்களுக்கு ப்ராபர்டி ரிகார்டிங்களா இன்க்வரி பண்ணுங்க நீங்க உள்ளது-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 12.119,
+      "end": 13.22,
+      "text": "ஆஹா, இப்ப ரீசண்ட்ல கால் பண்ணிருக்கேன்."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 13.22,
+      "end": 22.6,
+      "text": "காலாபட்டி என்- ஆஹா, ஆமாம், ஆமாம் காலாபட்டி அண்ட் அது- சரவணபட்டி லொகேஷன்- சரவணபட்டி ரேடியஸ்ல பார்த்துட்டு இருக்கேன். ஆமாங்க, ஆமாங்க. சார், நமக்கு நீங்க என்ன லொகேஷன்ல இருக்கீங்கன்னு தெரிஞ்சுக்கலாங்களா சார்?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 22.739,
+      "end": 31.079,
+      "text": "ஐ ஆக்சுவலி ரெஸிட் அட் ஆர் எச் ப்ளஸ் ஆஹா, நான் வந்துட்டு இன்வெஸ்ட்மெண்டுக்கு எனக்கு அந்த லொகாலிட்டில ஆஹா லோக்கேஷன்ல லாக்ஸ் ஓகே ஓகே, சரி சார்."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 31.079,
+      "end": 38.379,
+      "text": "ஓகே ஓகே. சார், நமக்கு ப்ராபர்டி ரெண்டு லொகேஷன்லயுமே அவைலபிளா இருக்கு. சார் நமக்கு-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 38.379,
+      "end": 38.399,
+      "text": "ஓகே."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 38.399,
+      "end": 43.119,
+      "text": "சார் நமக்கு சரவணபட்டில பார்த்தீங்கன்னா நமக்கு அப்ரூவல் ஆன ப்ராபர்டி. ப்ரோ டிடிசிபி அப்ரூவ்ட் ப்ராபர்டி."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 43.119,
+      "end": 43.399,
+      "text": "ஓகே."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 44.299,
+      "end": 49.359,
+      "text": "அண்ட் நமக்கு ப்ராபர்டில இப்போ, ப்ராபர்டில இப்போ ஆஹா ஆல்மோஸ்ட் த்ரீ பிளாட்ஸ் தான் இப்போ அவைலபிளா இருக்கு."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 49.5,
+      "end": 49.859,
+      "text": "ஓகே."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 50.899,
+      "end": 58.539,
+      "text": "ஸோ ப்ராபர்டி நேம் பாத்தீங்கன்னா ஜி ஸ்க்வேர் அர்பனைஸ் பண்ணியிருக்கோம் சார். எஸ் ஓபிஎம் பஸ் ஸ்டாப் லேயில ஆரவுண்ட் ஒன் கிலோமீட்டர் டிஸ்டான்ஸ்ல நமக்கு ப்ராபர்டி வருது."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 58.799,
+      "end": 59.179,
+      "text": "ஓகே."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 59.699,
+      "end": 63.12,
+      "text": "சோ நமக்கு ஓவரால ஒன் பॉயிண்ட் டூ ஏக்கர்ல ட்வெண்ட்டி ஃபோர் ப்ளாட்ஸ் போட்டிருக்கோம்."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 63.559,
+      "end": 63.579,
+      "text": "ஓகே."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 63.579,
+      "end": 70.0,
+      "text": "சோ த்ரீ யூனிட்ஸ் தான் அவைலபிளா இருக்கு. அதுல சென்ட் சைஸ் பாத்தீங்கன்னா ஃபைவ் பாயிண்ட் சிக்ஸ் எயிட் இருந்து ஸ்டார்ட் ஆகிறது."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 70.779,
+      "end": 71.18,
+      "text": "ஓகே."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 72.239,
+      "end": 208.839,
+      "text": "அண்ட் நமக்கு ஒரு சென்ட் ரேட் பாத்தீங்கன்னா நயிண்டீன் லாக்ஸ் ஃபிப்டி தௌசண்ட் இருந்து ஸ்டார்ட் ஆகும் சார் ப்ளஸ் பிஎல்சி சார்ஜஸ் ஆட் ஆகும்."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 209.039,
+      "end": 209.339,
+      "text": "ஓகே"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 371.843,
+      "end": 379.103,
+      "text": "Eh, eight to ninety lakhs. Oh, ok ok sure sir. So moreover ninga ah ini location ungaleke ninga prefer pannute hingo sir indru location?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 379.363,
+      "end": 388.643,
+      "text": "Na na na enna ninnusa na like andha andha as I told previously anga andha Kiranithama IT park andha surrounding pakkatha la ah plot vaangalna dhan bakkura."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 389.703,
+      "end": 391.484,
+      "text": "Ok, sir gama kuda iru SVB tech park."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 391.484,
+      "end": 394.623,
+      "text": "Either kalapatti or pakka homa irukkum pakkura."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 395.603,
+      "end": 397.863,
+      "text": "Amaanga sir SVB tech park padi ungala sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 397.923,
+      "end": 398.683,
+      "text": "Ama ama ama."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 399.803,
+      "end": 403.744,
+      "text": "So angi irunga around three point five kilometre distance namma property varuthu irukku."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 403.923,
+      "end": 404.924,
+      "text": "Ok ok ok."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 405.303,
+      "end": 409.143,
+      "text": "Sir ah namma SVB tech park la iruroma nearby hui thaan namma property irukku."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 409.344,
+      "end": 409.584,
+      "text": "Ok."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 409.743,
+      "end": 421.324,
+      "text": "So once ninga site reach pannunga so further ana property details elamma namma guide pannu vanga. Ani ninga kettu mari namma kirana them IT park la iruntyamu property exact a paathi kona nine kilometre distance thaan cover hai."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 421.324,
+      "end": 421.764,
+      "text": "All right."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 422.763,
+      "end": 427.963,
+      "text": "Sir ah details elamma whatsapp pannurainga sir. Ah ninga po Roxburm la irukkuto sir lettu chchiya."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 427.963,
+      "end": 427.984,
+      "text": "Yema na-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 427.984,
+      "end": 430.043,
+      "text": "Site vanthu visit pannuthu iruna eppo possible nithu chchiya."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 430.043,
+      "end": 433.303,
+      "text": "Ah indha weekend mudiya. Amm probably next weekend mari ah irukkum."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 433.903,
+      "end": 437.723,
+      "text": "Ok, ah so indha weekend ah vanthu visit panna try pannalaanga sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 438.383,
+      "end": 441.504,
+      "text": "Ah this weekend konjoam packed irukku mam. Indha week, indha weekend mudiya."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 442.163,
+      "end": 443.824,
+      "text": "Ok week or weekdays sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 444.283,
+      "end": 446.743,
+      "text": "Weekdays chance illa ma. Weekend one possible."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 447.004,
+      "end": 449.443,
+      "text": "Ok weekend na ipo next weekend su ilukki."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 449.443,
+      "end": 450.223,
+      "text": "Ama ama."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 450.223,
+      "end": 451.163,
+      "text": "Ah nine or ten?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 451.383,
+      "end": 453.184,
+      "text": "Ama. Ah naa-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 453.184,
+      "end": 454.463,
+      "text": "Adra saturday or sunday sir?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 454.623,
+      "end": 455.623,
+      "text": "saturday or sunday only."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 456.763,
+      "end": 463.464,
+      "text": "Saturday or sunday, ok sure sir. So nara rendu location ora details elamma yepo pin panni iruku. Ninga location once check panni paarunga."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 463.663,
+      "end": 464.043,
+      "text": "Alright."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 464.983,
+      "end": 473.063,
+      "text": "Ah nammaka further ana updates ninga site varumathil provide pannu vanga. Namma side lenna complimentary cab facilities pan kuduthitru irukku."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 473.364,
+      "end": 473.803,
+      "text": "Alright."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 474.023,
+      "end": 480.424,
+      "text": "So ninga ethana peru enna time la variyena abdi ninga enak inform panikitu ingna adhu kitta kanavara naa cab mae pottu kuduthutrayge sir cherikum."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 480.443,
+      "end": 482.723,
+      "text": "Ok ok ok ihuthu indha number ye contact pannura thanga la?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 483.903,
+      "end": 488.563,
+      "text": "Sir udhu nammaku system call. Na ungale already details whatsapp pannu iruku oru number la irukku."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 488.603,
+      "end": 489.223,
+      "text": "Ok ok."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 489.303,
+      "end": 493.063,
+      "text": "Double nine six two four two eight double zero six. So idhu ennodu number."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 493.163,
+      "end": 493.583,
+      "text": "Ok ok"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 493.583,
+      "end": 497.403,
+      "text": "So indha number iruku ninga call or message pannula. Ani ennodu, enoda name ubashini."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 497.783,
+      "end": 498.503,
+      "text": "Alright alright."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 499.383,
+      "end": 501.904,
+      "text": "Ok ok sir saratha good name Sandeep."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 502.164,
+      "end": 503.184,
+      "text": "Siddiq, Siddiq, Siddiq."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 503.843,
+      "end": 504.423,
+      "text": "Sorry sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 504.463,
+      "end": 505.244,
+      "text": "Siddiq, Siddiq."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 506.403,
+      "end": 506.944,
+      "text": "Siddiq?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 506.944,
+      "end": 507.184,
+      "text": "Ya."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 508.304,
+      "end": 509.823,
+      "text": "Ok Siddiq sir thank you sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 509.823,
+      "end": 510.024,
+      "text": "Alright sir."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 510.024,
+      "end": 512.483,
+      "text": "Thank you for choosing this closing, have a great day sir."
+    }
+  ],
+  "exec_time": 34.205
+}

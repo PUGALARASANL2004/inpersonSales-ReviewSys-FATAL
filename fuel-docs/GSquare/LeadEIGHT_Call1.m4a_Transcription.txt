@@ -1,0 +1,539 @@
+{
+  "status": "success",
+  "segments": [
+    {
+      "speaker_id": "speaker_0",
+      "start": 1.139,
+      "end": 1.499,
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 1.939,
+      "end": 8.579,
+      "text": "Thank you for calling G Square. Your call is important to us and will be answered shortly."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 11.239,
+      "end": 28.319,
+      "text": "Sir, Coimbatore <|cough|> We're working in Coimbatore. We're staying in PG now. We saw your ad that you are buying a plot. We saw multiple ads. We are working in a tech park near Saravanampatti."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 29.5,
+      "end": 29.899,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 29.899,
+      "end": 41.259,
+      "text": "And we don't know, enquiring about Saravanampatti they said there are less plots it seems, in their G Square ad. How much are the plots in Thudiyalur area like this, sir?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 41.7,
+      "end": 48.039,
+      "text": "Thudiyalur la irukku. Thudiyalur mean exact Thudiyalur kidathi. Panimedai location sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 48.039,
+      "end": 50.079,
+      "text": "Panimedai, Haan, haan, soal pannutthaanga."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 50.219,
+      "end": 52.759,
+      "text": "Sir, andha location la fully naa open panni irukkatu."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 52.899,
+      "end": 53.639,
+      "text": "Okay, sir."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 53.639,
+      "end": 53.68,
+      "text": "G Square."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 53.68,
+      "end": 58.579,
+      "text": "Ah, adhar odu details konjam nalla clarify pannutereingala?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 59.099,
+      "end": 62.919,
+      "text": "Kindly, sir. Actually, new site G Square <|cough|>The Wind site odi irukku."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 63.179,
+      "end": 63.539,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 63.539,
+      "end": 64.719,
+      "text": "Four and a half acre site."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 65.139,
+      "end": 65.499,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 65.539,
+      "end": 73.379,
+      "text": "Onga plot size mean one and a half cent land plot size available irukku. One cent oda development seven lakhs ninety thousand per cent start avutu."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 73.459,
+      "end": 75.119,
+      "text": "Seven lakhs nineteen thousand."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 75.119,
+      "end": 75.999,
+      "text": "Ninety thousand."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 76.039,
+      "end": 77.959,
+      "text": "Ninety, okay, okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 78.139,
+      "end": 84.399,
+      "text": "Yes, yes, sir. Ipin neenga ondru one and half cent land plot agara budget eleven lakh eighty five thousand site odi irukku sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 85.059,
+      "end": 85.679,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 86.179,
+      "end": 90.099,
+      "text": "Ava nigga choose panna plot and plan pathi budget irukku. Nee ninga enla budgetla paathureengi?"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 90.099,
+      "end": 99.579,
+      "text": "Hmm, elukku, cent wise thaan nga paathutte irukkoom. Oru two point five cent or three cent in the meri paathutte irukkoom. Aah, buy pannuthutte. Ipo..."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 101.279,
+      "end": 101.319,
+      "text": "Tell me sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 101.319,
+      "end": 105.739,
+      "text": "Ah, three cent specified avadhu land location angadha plot la irukkungal?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 107.159,
+      "end": 108.079,
+      "text": "Three cent mari..."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 108.079,
+      "end": 108.579,
+      "text": "Aama."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 109.499,
+      "end": 114.359,
+      "text": "Sir, three cent la irukku. Adhodha budget price ok twenty three lakhs seventy thousand adha mari arivadhu."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 114.359,
+      "end": 122.379,
+      "text": "Okay. Aah, okay. Adhey adha same cent oda price thaa na avangala change agamaga oru oru plot la."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 122.379,
+      "end": 126.339,
+      "text": "Igicca vanndhu adhuka minimum minimum variagostavura irukkuinga corner plot agara."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 126.499,
+      "end": 126.819,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 126.819,
+      "end": 129.879,
+      "text": "Spacing wise irukkinga unukka price variation irukkunga."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 130.019,
+      "end": 136.539,
+      "text": "Price variation varum. Okay, oru oru plot ku thaga madi meri price marum. Adha corner solriinga-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 136.539,
+      "end": 137.999,
+      "text": "Aama sir, aama sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 138.399,
+      "end": 140.179,
+      "text": "Preferred location adhana solriinga."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 140.439,
+      "end": 141.519,
+      "text": "Yes, yes, yes."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 141.759,
+      "end": 150.259,
+      "text": "Okay. Ipo sir, okay. Cent, square feet la specified adhadhu pay panra meru irukkungal oru cent wise thaan pay panra meru."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 150.259,
+      "end": 153.999,
+      "text": "Cent kanakarathu sir. Actually, namma parichiruthal irukku. So, cent wise la thaan unguke paruvoma sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 154.199,
+      "end": 158.999,
+      "text": "Okay, sir, okay, sir. Ipo approval la enna mari inga sir iruku? Land oda."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 159.719,
+      "end": 166.159,
+      "text": "Approval varum. Batana inno namma launch pannala. Kena work thaan poyirukku. Ena new site one week before thaan-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 166.159,
+      "end": 166.919,
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 166.919,
+      "end": 169.699,
+      "text": "...development poyirukutu sir adha site la."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 169.959,
+      "end": 172.959,
+      "text": "Okay, okay. Innu officially ninga launch pannala."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 173.339,
+      "end": 176.379,
+      "text": "Launch pannala. But aana pre-bookings uma eduthu thaan sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 176.959,
+      "end": 178.999,
+      "text": "Pre-booking ke vala sir cost unnu?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 179.019,
+      "end": 181.699,
+      "text": "Ah, one lakh giduthu nigga plot get pannuma."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 181.819,
+      "end": 183.879,
+      "text": "Entha plot a irundhal one lakhngala illa?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 184.039,
+      "end": 184.679,
+      "text": "Aama sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 184.959,
+      "end": 185.559,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 186.159,
+      "end": 201.039,
+      "text": "Nigga enu one lakh kiduthu nigga enna plot venum thara namma navigate kuduppanvadiga. So, aaren nigga choose pani book panni kudalum. So, after that launch aapom unakka enna payment end na yenna thanda matra we will send sir aam aatia adhukaat. So, neeyalu vaanda paaka niga adhu side. Iya, neeyalu paadi vaadu undha location how it is, veni adhu yena irukku."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 202.799,
+      "end": 213.299,
+      "text": "Land location okay. G Square oda specifications on the registration facility, ah, in the commencements la how it will be sir?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 214.559,
+      "end": 218.039,
+      "text": "Actually ippo naa soluna cost par irukku land oda value la."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 218.379,
+      "end": 218.699,
+      "text": "Aama."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 218.699,
+      "end": 222.219,
+      "text": "Registration cost par pannum separate avarum. Nine percentage avarum unakku."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 222.219,
+      "end": 224.739,
+      "text": "Andha land oda value la nine percentage avarum gala?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 225.119,
+      "end": 231.159,
+      "text": "Yes, yes, sir. Actually, ippol namma plot la offer poyirukutu. Ennan ichu site la plot book pannengala."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 231.239,
+      "end": 231.699,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 231.879,
+      "end": 235.199,
+      "text": "Coupon, coupon qr code ovu unnu kudupaadha. So, adha based panni coupon ovu varum."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 235.499,
+      "end": 235.819,
+      "text": "Sari."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 235.819,
+      "end": 240.539,
+      "text": "So, adha vanndhu namma ichu upp to two lakhs varikku namma discount panni kuduthurukkum price ila overall la."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 240.879,
+      "end": 241.319,
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 241.999,
+      "end": 243.519,
+      "text": "In case if you are going to-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 243.519,
+      "end": 243.819,
+      "text": "Idhu vandhu-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 243.819,
+      "end": 244.199,
+      "text": "Solunga sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 244.399,
+      "end": 250.299,
+      "text": "Idhu vandhu indha specified andhe Thudiyalur pakka la irukkuthal re plot ku mathiran thaala illa ella G Square oda."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 250.679,
+      "end": 255.299,
+      "text": "Idhu vandhu common sir overall ninnu ella site ninnu book pannu g square la."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 255.579,
+      "end": 255.759,
+      "text": "Ok."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 255.759,
+      "end": 270.479,
+      "text": "Ellaa ethukke ninnu andha offer applicable sir. In case nigga loan poringa abadi nae, ipp August pathinaharu ka plot booking loan poringa, ippo january twenty twenty six varaike illa emi g square take over pannu illai scheme poyirukutu. So, andha offer nigga applicable sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 270.939,
+      "end": 271.799,
+      "text": "Ok sir."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 272.579,
+      "end": 275.139,
+      "text": "Lone poringa nanna ni andha offer availabilite irukkutu."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 275.219,
+      "end": 287.979,
+      "text": "Land ippa ok sir, land oda surroundings la enna facilities panni pudipeninga enggala? Iyappa nanna one plot avangalna adhi street facility andha meri specified a made pannaveela illa common a irukarathu dhanana ellame?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 288.579,
+      "end": 303.959,
+      "text": "Aadha thaan sir. Actually, this is padika normal basic features develop panni than tharavom. Aadha uliyae namma road, street lights, CCTV surveillance, site overall compound wallaku puvom. Adhomuttu illamala fifteen plus amenities avirukutu sir. Park, children play, tennis court, outdoor gym."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 304.479,
+      "end": 305.199,
+      "text": "Oh, idhelama-"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 305.199,
+      "end": 305.759,
+      "text": "So, onum fifteen plus-"
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 305.759,
+      "end": 308.899,
+      "text": "Idhelama plot ulay andha surrounding le vantrugala."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 308.899,
+      "end": 310.599,
+      "text": "Aama sir, aama sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 310.799,
+      "end": 314.259,
+      "text": "Okey, okey. Adhu ok sir, adhu common ellare keme?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 315.239,
+      "end": 316.739,
+      "text": "Yes, ellame common sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 316.799,
+      "end": 321.339,
+      "text": "Okay, sir. Okay, sir. Aah, borewell access irukkuma sir ullara land la?"
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 321.779,
+      "end": 328.199,
+      "text": "Borewell antha details namma kitto illa. Adha namma sales kidai ko ask panna varma check pannutaongala sir. So, appiki ella..."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 328.939,
+      "end": 338.119,
+      "text": "Illa enna ipp water service irukku sir ivinga specified a bore service eduthukununa adhuka access iruka ennanthirukiraan sir."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 338.519,
+      "end": 344.739,
+      "text": "Bore pordam madi thaan irukku sir. Adhu ennada ethu thanda namma sales kidaiyira ikku. Namma details nanna collect panni apply pannuma sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 344.859,
+      "end": 346.359,
+      "text": "Okay, sir, okay sir."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 346.359,
+      "end": 356.879,
+      "text": "Aama sir, enna neyala vanda paani if you come and see the surroundings for target competitive region twenty twelve lakhs given. So, press time pani irukkum. Neyalye vanda paaru paruthade ne edhuka decide pannuma."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 356.999,
+      "end": 363.279,
+      "text": "Sir, sir, sir, sir, sir, land oda value seven lakh ninety thousand annadhi meri soniya cent ku."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 363.379,
+      "end": 363.899,
+      "text": "Aama sir."
+    },
+    {
+      "speaker_id": "speaker_0",
+      "start": 364.019,
+      "end": 425.903,
+      "text": "Adhodha original government value edhadha therriyingala avangalukku. Actually, site odha basic deals madhira thaan sir. Mathila ammai sales person tha unakku. Booking ke loan a irukattum registration elame avangada process pannaga. So, namma client call panna sollum. So, inga vanda pettu pannu- Okay, sir, okay sir. Idi adithya, idhay ad adhukara ongala ad adhukara adham pathom.2 3 அவங்க என்னெல்லாம் சுப்ரமணியன் சார், அவங்க என்னெல்லாம் ஸ்பெசிஃபிடா எல்லாத்தையும் மார்க்கெட்டிங் டீமே எக்ஸ்பிளைன் பண்ணிக்கிட்டு இருக்காங்க எங்களுக்கு. அ, என்னன்னு பார்த்தீங்கன்னா, அ, அ, அ அவங்க கரெக்டா துடியுலூர் லொகேஷன்லயே ஒன்னு சொன்னாங்க. ஒருவேளை இதில் பிளாட்டு, ஒரு பிளாட்லாம் சேம் தான் குரூப்ஸ், குரூப்ஸ் தான் சேல் பண்றது வேற அப்படின்ற மேரியே நம்மளால பார்த்தோம். ஆ, நீங்க சொல்ற லொகேஷன் வேற ஆகி இருக்கு. அண்ட் அண்ட் அண்ட் ஆக்சுவலா உங்களுக்கு அதாவது துடியுலூர் கிடையாது. நீங்க நியர் பன்னிமலை இப்ப ரீசென்ட்ல ஓபன் பண்ணி... அவங்க சொன்னது என்ன சொன்னாங்கன்னா, எக்ஸாக்டா துடியுலூர் இருக்கு நம்மளுக்கு. அ, அப்படின்னு சொன்னாங்க. அதனால செக் பண்ணிக்கிறதுக்கு தான் சார் கேட்டோம்."
+    },
+    {
+      "speaker_id": "speaker_1",
+      "start": 425.983,
+      "end": 499.143,
+      "text": "அதான் சார். நேர்ல பாருங்க ஏன்னா அங்கேயும் இங்கயும் பாருங்க அரவுண்ட் ஒரு ஃபோர் லட்ச் கிட்ட"
+    }
+  ],
+  "language_code": "eng",
+  "language_probability": 0.37601611018180847,
+  "diarize": false,
+  "num_speakers": null,
+  "audio_events": [],
+  "exec_time": 33.103
+}

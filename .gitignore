@@ -1,0 +1,40 @@
+.env
+env.txt
+
+# Project knowledge extracted data files (generated from source files)
+fuel-docs/**/*_extracted_data.json
+fuel-docs/**/*_extracted_summary.txt
+fuel-docs/**/*_faq_data.json
+# Combined knowledge file is generated - can be gitignored or committed based on preference
+# fuel-docs/project_knowledge.json
+
+# Temporary files
+fuel-docs/**/~$*
+*.tmp
+.tmp_audio/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (UI)
+ui/node_modules/

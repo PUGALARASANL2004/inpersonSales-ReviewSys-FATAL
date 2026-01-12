@@ -1,0 +1,517 @@
+title: "Empire Pre-Sales Call Quality Audit"
+version: "2.0"
+total_points: 100
+description: "Quality parameter sheet with scoring based on SOP-Quality Sheet AP/SOP/QA#001"
+
+# Reference documents:
+# - Audit Sheet: fuel-docs/Empire/Audit Sheet-001.pdf
+# - Calling Script: fuel-docs/Empire/Empire-Calling Script.pdf
+# - Ready Reckoner: fuel-docs/Empire/Ready Reckoner-Empire.xlsx (extracted as empire_extracted_data.json)
+
+scoring_instructions: |
+  Each parameter should be scored from 0 to its maximum score based on the quality of execution.
+  - Full Score: Complete, accurate, confident execution with clear evidence
+  - Partial Score: Acceptable execution with minor gaps or issues
+  - Zero Score: Missing, incorrect, or severely deficient execution
+  - NA (Not Applicable): When a parameter is genuinely not applicable to the call context, mark it as NA and it receives FULL POINTS automatically
+  - Evidence Required: Every score must be supported by specific transcript evidence with timestamps (except for NA)
+  - No Assumptions: Score only what is explicitly present in the transcript
+  
+  NA Scoring Rules:
+  - Mark a parameter as NA ONLY when it is genuinely not applicable to evaluate based on call context
+  - NA automatically awards the maximum points for that parameter
+  - Use NA sparingly and only when justified (e.g., no objections were raised, customer ended call abruptly)
+  - To mark as NA, set score to -1 and explain why it's not applicable in the rationale
+
+categories:
+  - id: greeting
+    name: "Greeting"
+    description: "Opening engagement and establishing rapport with customer"
+    max_points: 9
+    sub_parameters:
+      - id: greeting_intro_self
+        name: "Greeting & Introduced Self"
+        max_points: 2
+        description: "Associate to greet the customer on time (within 3 seconds) and introduce self relevantly to customer"
+        scoring_guide:
+          2: "Prompt greeting (within 3 seconds) AND clear self-introduction with name"
+          1: "Greeting present but delayed OR unclear self-introduction"
+          0: "No greeting OR no self-introduction OR significantly delayed (>10 seconds)"
+        evidence_required:
+          - "Exact greeting phrase with timestamp"
+          - "Self-introduction statement with name"
+        validation_rules:
+          - "Must greet within first 3 seconds of agent speaking"
+          - "Must include agent's name in introduction"
+      
+      - id: brand_intro
+        name: "Brand Intro"
+        max_points: 3
+        description: "Introducing the brand name (Adityaram Property/Properties, Adityaram Group, or variations) to the customer with pride"
+        scoring_guide:
+          3: "Brand name clearly mentioned with proud, enthusiastic tone AND establishes credibility"
+          2: "Brand name mentioned but tone lacks pride OR enthusiasm"
+          1: "Brand name mentioned casually or unclear"
+          0: "Brand name not mentioned at all in opening"
+        evidence_required:
+          - "Exact brand name mention with timestamp"
+          - "Tone/enthusiasm indicators from transcript"
+        validation_rules:
+          - "Acceptable brand variations: Adityaram Property, Adityaram Properties, Adityaram Group, Adithyaram, Adithiram"
+          - "Must convey pride in brand representation"
+      
+      - id: purpose_of_call
+        name: "Purpose of Call"
+        max_points: 2
+        description: "Associate to inform the purpose why he/she has called the customer"
+        scoring_guide:
+          2: "Clear, explicit statement of call purpose AND connected to customer enquiry/interest"
+          1: "Purpose mentioned but vague OR assumed customer knows"
+          0: "No purpose stated OR customer confused about reason for call"
+        evidence_required:
+          - "Exact purpose statement with timestamp"
+          - "Connection to customer enquiry/interest"
+        validation_rules:
+          - "Must mention enquiry/project/interest reason"
+          - "Should be stated early in call (within first minute)"
+      
+      - id: reaching_decision_maker
+        name: "Reaching Decision Maker/RPC"
+        max_points: 2
+        description: "Reaching Decision Maker/RPC for better conversation with customer"
+        scoring_guide:
+          2: "Confirmed speaking to right person by name AND verified decision maker"
+          1: "Asked for confirmation but didn't verify decision maker status"
+          0: "No identity verification OR speaking to wrong person"
+        evidence_required:
+          - "Confirmation question/statement with timestamp"
+          - "Customer name mentioned"
+        validation_rules:
+          - "Must use customer name from script: 'Am I speaking to Mr/Ms [Customer Name]'"
+          - "Must receive confirmation before proceeding"
+
+  - id: project_knowledge
+    name: "Project Knowledge"
+    description: "Demonstration of comprehensive project understanding and ability to convey information"
+    max_points: 48
+    sub_parameters:
+      - id: effective_probing
+        name: "Effective Probing"
+        max_points: 12
+        description: "Associate to effectively probe the customer need and want and always ask open-ended probing questions"
+        scoring_guide:
+          12: "Excellent probing: 3+ open-ended questions covering budget, size, purpose, timeline, preferences"
+          9: "Good probing: 2 open-ended questions covering at least 3 key need areas"
+          6: "Adequate probing: 1 open-ended question covering at least 2 need areas"
+          3: "Minimal probing: Only closed-ended questions but attempts to understand needs"
+          0: "No probing OR only assumed customer needs without asking"
+        evidence_required:
+          - "List all probing questions with timestamps"
+          - "Identify open-ended vs closed-ended questions"
+          - "Note which needs were probed (budget/size/purpose/timeline/preferences)"
+        validation_rules:
+          - "Open-ended questions: What, Why, How, Tell me about, Can you explain"
+          - "Closed-ended questions: Yes/No questions, specific choice questions"
+          - "Must probe at least: budget AND size requirements"
+      
+      - id: project_knowledge_accuracy
+        name: "Project Knowledge"
+        max_points: 12
+        description: "Associate's knowledge on all projects ongoing in the company for better pitching. STRICTLY validate against Ready Reckoner data."
+        scoring_guide:
+          12: "All project details 100% accurate per reckoner: location, size range, pricing, amenities, approvals, USPs (minimum 6+ facts stated correctly)"
+          9: "Mostly accurate (5 facts correct) with minor variations acceptable (e.g., rounding)"
+          6: "Partially accurate (3-4 facts correct) OR some vagueness but no critical errors"
+          3: "Limited knowledge (1-2 facts correct) OR significant vagueness"
+          0: "Wrong project details OR critical factual errors (pricing, size, location, project name)"
+        evidence_required:
+          - "List EVERY factual claim with timestamp"
+          - "Validate EACH claim against reckoner data"
+          - "Identify any discrepancies with exact values"
+        validation_rules:
+          - "Project: ADITYARAM EMPIRE - II (Phase 2)"
+          - "Location: Kelambakkam (OMR), 3 Kms from Kelambakkam Junction, Pudupakkam"
+          - "Approval: DTCP & RERA Approved"
+          - "Plot Size: Minimum 617 sq.ft. (650 sq.ft. acceptable), Maximum 3777 sq.ft."
+          - "Pricing: Rs. 6000/- per sq.ft. (Early Bird Offer) OR Rs. 6300/- per sq.ft. (Actual Price)"
+          - "Price Range: Rs. 42 Lakhs (minimum) to Rs. 2.45 Crores (maximum)"
+          - "Land Extent: 12 Acres"
+          - "Total Plots: 223 plots (Phase 2)"
+          - "Status: Ready to Construct"
+          - "Bank Loan: Up to 90%"
+          - "Key Features: Top grade Blacktop Internal Roads, Solar LED Street Lights, 3 years Free Maintenance, 24/7 CCTV Surveillance, 60% Open Area, Potable Ground Water at 30 ft"
+          - "Critical Location Details: Kelambakkam Junction to Empire 2 kms, From Main Road 900 mts, Near Rajinikanth farm house (mentioned in script)"
+          - "CRITICAL ERRORS (auto 0 score): Wrong project name, pricing outside Rs. 6000-6300/sq.ft., minimum plot size below 617 sq.ft., wrong approvals, location errors"
+          - "Amenities: 20+ amenities in 1.5 acres OSR area (Fitness Station, Kids Play Area, Reflexology Pathway, Gazebo, Basketball Court, Pickle Ball, Party Lawn, Badminton Court, Cricket Practice Net, Lake View Gazebo, Foot Soak Pond, Lotus Pond, Lilly Pond, etc.)"
+      
+      - id: objection_handling
+        name: "Objection Handling"
+        max_points: 12
+        description: "Handling objections with the customer confidently. This includes ANY objections, concerns, or resistance raised during the call - not limited to property/pricing objections."
+        scoring_guide:
+          12: "Excellent: Acknowledged ALL objections confidently, provided factual responses, addressed concerns directly, checked resolution, maintained positive attitude"
+          9: "Good: Addressed objections confidently with facts, mostly resolved concerns"
+          6: "Adequate: Acknowledged objections but responses lacked depth or confidence"
+          3: "Weak: Attempted to handle but avoided direct answers or lacked confidence"
+          0: "Failed: Ignored objections OR defensive OR no attempt to address"
+          -1: "NA: EXTREMELY RARE - Only if the customer showed zero resistance, concerns, or objections of ANY kind throughout the entire call (receives full 12 points)"
+        evidence_required:
+          - "List EVERY objection, concern, or resistance raised by customer with timestamp - including objections about process, information, visits, documentation, etc."
+          - "List agent's response to each objection with timestamp"
+          - "Assess confidence level and factual accuracy of responses"
+        validation_rules:
+          - "BROAD DEFINITION: Objections include ANY concerns - property (price, location, features), process (documentation, registration, payment), information availability, visit requirements, timeline, comparisons, skepticism, frustration with service, etc."
+          - "COMMON OBJECTION TYPES: Price/budget, location/distance, competitor comparison, timing, information not provided, being redirected to other teams, site visit requirements, documentation concerns, trust/credibility issues, feature adequacy"
+          - "Must acknowledge objection before responding"
+          - "Must provide factual information, not evasive answers or deflections"
+          - "Redirecting to another team without addressing the concern = poor objection handling"
+          - "Mark as NA (score: -1) ONLY in extremely rare cases where customer showed ZERO resistance, concerns, or objections of ANY kind - this awards full 12 points automatically"
+          - "CRITICAL: Analyze the ENTIRE call context - objections can be explicit (direct questions/concerns) or implicit (hesitation, skepticism, pushback)"
+      
+      - id: follow_up
+        name: "Follow Up"
+        max_points: 12
+        description: "Keep a good track and follow up with the interested/opportunity customer"
+        scoring_guide:
+          12: "Excellent: Asked for site visit with specific timing, got alternative contact, mentioned booking advance (Rs. 1 Lakh), confirmed WhatsApp for details, set clear next steps"
+          9: "Good: Asked for site visit with timing OR got alternative contact, set next steps"
+          6: "Adequate: Asked for site visit OR discussed next steps but vague on timing"
+          3: "Weak: Mentioned follow-up but no concrete plan or commitment"
+          0: "Failed: No follow-up plan OR no site visit invitation OR no next steps"
+          -1: "NA: Customer is completely not interested with no opportunity for follow-up (receives full 12 points)"
+        evidence_required:
+          - "Site visit invitation with timestamp"
+          - "Timing discussion with timestamp"
+          - "Alternative contact request with timestamp"
+          - "Booking advance mention with timestamp"
+          - "WhatsApp/sharing details confirmation with timestamp"
+        validation_rules:
+          - "Per script: Should ask 'Can you visit our project by today?' then try tomorrow, then weekend"
+          - "Should get alternative number and residing location"
+          - "Should ask 'At what time you will be reaching?'"
+          - "Should mention: 'please bring your cheque book or Card to block your dream villa plot. Booking Advance amount will be One Lakh'"
+          - "Should confirm WhatsApp number for sharing brochure/location"
+          - "Mark as NA (score: -1) ONLY if customer is completely not interested with no opportunity - this awards full 12 points automatically"
+
+  - id: process_knowledge
+    name: "Process Knowledge"
+    description: "Understanding and execution of call process and procedures"
+    max_points: 10
+    sub_parameters:
+      - id: call_control
+        name: "Call Control"
+        max_points: 5
+        description: "Ownership of the call to be taken from agent side, there must be always a two-way conversation with the customer"
+        scoring_guide:
+          5: "Excellent control: Agent guided conversation, balanced two-way dialogue, engaged customer effectively, maintained focus"
+          4: "Good control: Mostly agent-led, good engagement, minor lapses in focus"
+          3: "Adequate control: Shared control, somewhat balanced dialogue"
+          2: "Weak control: Customer dominated OR agent talked too much with little customer engagement"
+          0: "No control: One-sided (either party) OR completely lost conversation thread"
+        evidence_required:
+          - "Examples of agent guiding conversation with timestamps"
+          - "Examples of two-way exchanges with timestamps"
+          - "Note any instances of losing control or one-sided dialogue"
+        validation_rules:
+          - "Agent should guide customer through script flow"
+          - "Must engage customer with questions and responses"
+          - "Must listen and respond appropriately to customer inputs"
+      
+      - id: disposition
+        name: "Disposition"
+        max_points: 5
+        description: "Stage movement of the leads provided. Agent is always responsible for the correct stage movement."
+        scoring_guide:
+          5: "Correct categorization: Call outcome properly identified as Qualified/Opportunity/RNR/Not Interested with appropriate next steps"
+          3: "Partially correct: Call outcome identified but next steps unclear or incorrect"
+          0: "Incorrect: Wrong categorization OR no stage movement OR inappropriate handling"
+        evidence_required:
+          - "Indicators of customer interest level throughout call"
+          - "Call outcome based on customer responses"
+          - "Next steps aligned with disposition"
+        validation_rules:
+          - "Qualified: Customer interested, willing to visit, budget aligned"
+          - "Opportunity: Customer interested but needs nurturing/follow-up"
+          - "RNR (Ring No Response): Customer needs callback or reschedule"
+          - "Not Interested: Customer explicitly not interested or wrong timing"
+          - "Score based on what disposition SHOULD be given call context, not what agent stated"
+
+  - id: soft_skills
+    name: "Soft Skills"
+    description: "Communication effectiveness and professionalism"
+    max_points: 28
+    sub_parameters:
+      - id: enthusiasm
+        name: "Enthu"
+        max_points: 3
+        description: "Call should always be energetic enough to convince the customer and to make the conversation interesting"
+        scoring_guide:
+          3: "High energy throughout (90%+ of call), excited about product, engaging delivery, upbeat tone"
+          2: "Good energy for most of call (60-90%), some engaging moments"
+          1: "Low energy for significant portion (40-60% flat), minimal excitement"
+          0: "Monotone, bored, disinterested throughout (>60% flat)"
+        evidence_required:
+          - "Note energetic/enthusiastic phrases with timestamps"
+          - "Note any flat/low energy sections with timestamps"
+          - "Estimate percentage of call with appropriate energy"
+        validation_rules:
+          - "Tolerate flat/low energy up to 40% of call for score > 0"
+          - "Look for enthusiasm indicators: excited tone, emphasis, passion about project"
+      
+      - id: active_listening
+        name: "Active Listening"
+        max_points: 3
+        description: "Agent should always listen to the customer without interruption and not make the customer repeat what he spoke"
+        scoring_guide:
+          3: "Excellent listening: No interruptions, acknowledged all customer points, relevant follow-ups, no unnecessary repetition, apologized if clarification needed"
+          2: "Good listening: Mostly attentive, minor interruptions or one instance of not hearing"
+          1: "Adequate listening: Some interruptions OR customer had to repeat once"
+          0: "Poor listening: Frequent interruptions OR customer repeated multiple times OR irrelevant responses showing not listening"
+        evidence_required:
+          - "Any interruptions by agent with timestamps"
+          - "Any instances where customer had to repeat with timestamps"
+          - "Examples of agent acknowledging customer statements with timestamps"
+        validation_rules:
+          - "Interruption = agent speaking over customer mid-sentence"
+          - "Must acknowledge customer responses appropriately"
+          - "If customer repeats information, check if agent addressed it first time"
+      
+      - id: confidence
+        name: "Confidence"
+        max_points: 5
+        description: "Throughout the call agent should reflect confidence without bumbling in the call"
+        scoring_guide:
+          5: "Confident throughout (90%+), no hesitation, clear and decisive, certain in knowledge"
+          4: "Mostly confident (80-90%), very minor hesitation (up to 20% of call)"
+          3: "Adequately confident (60-80%), some hesitation but not pervasive"
+          2: "Uncertain tone (40-60%), noticeable stuttering or fumbling"
+          0: "Lacks confidence throughout (>60%), frequent hesitation, nervous, indecisive"
+        evidence_required:
+          - "Examples of confident statements with timestamps"
+          - "Any hesitation, stuttering, or uncertain phrases with timestamps"
+          - "Estimate percentage of call with confident tone"
+        validation_rules:
+          - "Tolerate minor hesitation up to 20% of call for full score"
+          - "Hesitation indicators: um, uh, pauses, uncertain tone, 'I think', 'maybe'"
+      
+      - id: professional
+        name: "Professional"
+        max_points: 5
+        description: "Agent should be professional in call, avoid unprofessional words like mm, han, ah, avoid coughing, snoring, background noise"
+        scoring_guide:
+          5: "Fully professional: No filler words, clean audio, professional language throughout, appropriate hold/mute use"
+          4: "Mostly professional: Very minimal fillers (1-2 instances), clean audio"
+          3: "Adequately professional: Some fillers but not excessive (3-5 instances)"
+          2: "Marginally professional: Frequent fillers (6-10 instances) OR some audio issues"
+          0: "Unprofessional: Excessive fillers (>10 instances) OR significant background noise OR coughing/snoring OR unprofessional language"
+        evidence_required:
+          - "Count and list all filler words (mm, han, ah, um, uh) with timestamps"
+          - "Note any audio quality issues (background noise, coughing, etc.)"
+          - "Note any unprofessional language with timestamps"
+        validation_rules:
+          - "Strict evaluation - even small unprofessional elements should reduce score"
+          - "Fillers to count: mm, han, ah, uh, um, hmm"
+          - "Professional language = respectful, formal, appropriate vocabulary"
+      
+      - id: language_grammar
+        name: "Language and Grammar"
+        max_points: 5
+        description: "Words and sentences selected by the agent should be appropriate and reflect professionality. Tamil-English mixing is ALLOWED."
+        scoring_guide:
+          5: "Excellent: Proper grammar (90%+), professional vocabulary, clear sentences, respectful language, natural code-mixing if present"
+          4: "Good: Mostly proper grammar (80-90%), minor errors (up to 20% of call), appropriate vocabulary"
+          3: "Adequate: Generally understandable (60-80%), some grammar errors but not consistently poor"
+          2: "Below adequate: Frequent grammar errors (40-60%), some inappropriate word choices"
+          0: "Poor: Consistently poor grammar (>60%), inappropriate vocabulary, unclear sentences, disrespectful language"
+        evidence_required:
+          - "Examples of proper grammar usage with timestamps"
+          - "Any grammar errors with timestamps (if significant)"
+          - "Note language mixing patterns (Tamil-English)"
+        validation_rules:
+          - "Tamil-English code-mixing is ALLOWED and normal"
+          - "Tolerate minor language or grammar errors up to 20% of call"
+          - "Focus on overall professionality and clarity"
+          - "Do NOT penalize for natural code-mixing common in regional calls"
+      
+      - id: clarity_speech
+        name: "Clarity of Speech"
+        max_points: 4
+        description: "There should always be clarity in speech, agent should avoid rushing on call, rate of speech to be balanced"
+        scoring_guide:
+          4: "Excellent clarity: Clear enunciation, balanced pace, easy to understand, appropriate speed, no rushing"
+          3: "Good clarity: Mostly clear (80-90%), minor speed issues (up to 20% of call)"
+          2: "Adequate clarity: Generally understandable (60-80%), some rushing or unclear sections"
+          1: "Below adequate clarity: Difficult to understand (40-60%), frequent rushing or mumbling"
+          0: "Poor clarity: Very unclear (>60%), too fast/slow, mumbling throughout"
+        evidence_required:
+          - "Note any sections with clarity issues (rushing, mumbling, speed) with timestamps"
+          - "Assess if customer understood (based on their responses)"
+        validation_rules:
+          - "Check customer responses - relevant responses indicate good clarity"
+          - "Irrelevant responses may indicate customer didn't understand"
+          - "Tolerate minor mistakes up to 20% of call"
+          - "Tamil-English mixing is ALLOWED - only mark down if mixing + other factors make it unclear"
+      
+      - id: tone_voice_modulation
+        name: "Tone and Voice Modulation"
+        max_points: 4
+        description: "Tone and voice modulation to be controlled by agent in call"
+        scoring_guide:
+          4: "Excellent: Appropriate tone, effective modulation, engaging delivery, variation in pitch/pace, professional yet warm"
+          3: "Good: Appropriate tone, some modulation, mostly engaging"
+          2: "Adequate: Acceptable tone, limited modulation"
+          1: "Below adequate: Somewhat monotone or tone issues"
+          0: "Unacceptable: Harsh, rude, abusive, aggressive, raised/angry tone, disrespectful, shouting, arguing, mocking"
+        evidence_required:
+          - "Examples of good tone/modulation with timestamps"
+          - "ANY harsh, rude, or inappropriate tone with timestamps (critical)"
+        validation_rules:
+          - "Default to score 4 unless issues present"
+          - "Only mark 0 if: harsh, rude, abusive, aggressive words, raised/angry tone, disrespect (shouting, arguing, mocking, irritated delivery)"
+          - "Monotone should not automatically be 0 unless combined with other issues"
+
+  - id: closing
+    name: "Closing"
+    description: "Proper call conclusion and final engagement"
+    max_points: 4
+    sub_parameters:
+      - id: thanking_customer
+        name: "Thanking Customer"
+        max_points: 2
+        description: "Thank the customer for spending the time if applicable"
+        scoring_guide:
+          2: "Genuine appreciation expressed: Thanked for time/enquiry/interest at appropriate moment"
+          1: "Thanks given but brief or mechanical"
+          0: "No thanks given OR inappropriate timing OR insincere"
+          -1: "NA: Call ended abruptly or customer was rude making thanks inappropriate (receives full 2 points)"
+        evidence_required:
+          - "Exact thanking phrase with timestamp"
+          - "Context of when thanks was given"
+        validation_rules:
+          - "Should thank customer for time, enquiry, or interest"
+          - "Should occur at closing of call"
+          - "Mark as NA (score: -1) only if call ended abruptly or customer was rude - this awards full 2 points automatically"
+      
+      - id: closing_script
+        name: "Closing Script"
+        max_points: 2
+        description: "Follow proper closing script with brand name. Opening AND closing of the call must have brand name."
+        scoring_guide:
+          2: "Brand name mentioned in BOTH opening AND closing, proper closing statement, positive ending"
+          1: "Brand name in opening OR closing but not both, OR vague brand reference in closing"
+          0: "Brand name missing in both opening AND closing, OR improper closing, OR only generic goodbye"
+        evidence_required:
+          - "Brand name mention in opening with timestamp"
+          - "Brand name mention in closing with timestamp"
+          - "Exact closing phrase with timestamp"
+        validation_rules:
+          - "Per script: 'Thank you for choosing Adityaram Property. Have a great day sir!'"
+          - "Acceptable brand variations: Adityaram Property, Adityaram Properties, Adithyaram, Adithiram, 'Adithya Ram' or any form of mention"
+          - "MUST have brand name in CLOSING part of call (not just opening)"
+          - "Even vague mentions like '...properties' in closing acceptable if brand mentioned in opening"
+          - "If brand name NOT mentioned in closing, score = 0 (even if thanked customer)"
+
+# Scoring validation rules
+validation:
+  evidence_required: true
+  timestamp_required: true
+  no_assumptions: true
+  whole_transcript_analysis: true
+  na_scoring_enabled: true
+  
+  critical_rules:
+    - "Every score must have explicit evidence from transcript with timestamps"
+    - "Never assume or infer beyond what is explicitly stated or clearly implied"
+    - "Analyze ENTIRE transcript for each parameter, not isolated sections"
+    - "Customer repetition does NOT automatically mean agent failed - check if agent addressed it elsewhere"
+    - "All project knowledge must be strictly validated against Ready Reckoner data"
+    - "Critical errors in project knowledge (pricing, plot size, project name) result in 0 score for that parameter"
+    - "Tamil-English code-mixing is normal and acceptable - do not penalize"
+    - "For tone/voice modulation, default to high score unless clear negative behavior present"
+    - "NA Scoring: When a parameter is genuinely not applicable, set score to -1 to indicate NA, which automatically awards full maximum points for that parameter"
+    - "Use NA scoring EXTREMELY SPARINGLY - only when the parameter truly cannot be evaluated due to call context"
+    - "OBJECTION HANDLING DEFINITION: Objections include ANY customer concerns, resistance, or pushback - not limited to property/pricing. Includes: questions not answered, information gaps, being redirected to other teams, process concerns, frustration, skepticism, hesitation, site visit pushback, documentation questions, etc. Mark as NA only if customer showed ZERO concerns of ANY kind throughout entire call (extremely rare)"
+
+# Reference to calling script flow
+expected_call_flow:
+  - "Greeting + Brand Intro + Self Introduction"
+  - "Confirm customer identity (Am I speaking to Mr/Ms [Name]?)"
+  - "State purpose (enquiry for Adityaram Empire project)"
+  - "Provide location details (OMR, Kelambakkam, near Rajinikanth farm house)"
+  - "Describe project (12 acres, 223 plots Phase 2, 20+ amenities, lake view, etc.)"
+  - "State pricing and plot sizes"
+  - "Probe customer requirements (Budget & size)"
+  - "Match budget to available plots"
+  - "Invite for site visit (today, tomorrow, weekend)"
+  - "Get alternative number and residing location"
+  - "Confirm visit timing"
+  - "Mention booking advance (Rs. 1 Lakh)"
+  - "Confirm WhatsApp for sharing brochure/location"
+  - "Close with brand name and thanks"
+
+# Script reference for USP and Features
+key_talking_points:
+  location:
+    - "Kelambakkam (OMR), 3 Kms from Kelambakkam Junction"
+    - "Pudupakkam area"
+    - "When travelling from Kelambakkam to Vandalur road, within 1.5 kms, Rajinikanth sir farm house on left"
+    - "Take left at Rajinikanth farm house, within 900 mts find project on left"
+  
+  project_basics:
+    - "Adityaram Empire Phase 2"
+    - "12 acres land extent"
+    - "1.5 acres open park"
+    - "20+ world class amenities"
+    - "268 villa plots total (223 in Phase 2)"
+    - "Lake view villa plots"
+    - "Adjacent 20 acres fresh water pond"
+  
+  plot_details:
+    - "Minimum: 617 sq.ft. (671 sq.ft. also mentioned in script)"
+    - "Maximum: 3777 sq.ft."
+    - "Price: Rs. 6000/- per sq.ft. (Early Bird) OR Rs. 6300/- per sq.ft. (Actual)"
+    - "Starting from Rs. 42 Lakhs"
+  
+  usps:
+    - "Biggest Township"
+    - "Fastest Developing Location in Chennai - Kelambakkam"
+    - "Excellent Connectivity to Navalur, Siruseri, Padur, Vandalur"
+    - "Upcoming Metro from Kelambakkam - Thiruporur - Mahabalipuram"
+    - "Close to Top IT Hubs, Schools, Colleges & Hospitals"
+    - "Best-in-class Infrastructure"
+    - "Clear Legal Documentation"
+    - "Guaranteed High Value Appreciation (20% in 1 year)"
+    - "Ready to Construct"
+    - "Potable Sweet Ground Water in 30 ft (TDS Level 70-80%)"
+    - "60% Open Area"
+  
+  features:
+    - "Top Grade Blacktop Internal Roads"
+    - "Solar LED Street Lights"
+    - "3 years of Free Maintenance"
+    - "24/7 CCTV Surveillance"
+    - "Avenue Trees"
+    - "DTCP & RERA Approved"
+  
+  amenities:
+    - "Fitness Station"
+    - "Kids Play Area & Leisure Park"
+    - "Reflexology Pathway"
+    - "Gazebo / Lake View Gazebo"
+    - "Basketball Court"
+    - "Pickle Ball"
+    - "Party Lawn"
+    - "Badminton Court"
+    - "Cricket Practice Net"
+    - "Granite Pergola Seating Area"
+    - "Flower Garden"
+    - "Multi-Purpose Court"
+    - "Elder Discussion Deck"
+    - "Foot Soak Pond"
+    - "Lotus Pond"
+    - "Lilly Pond"
+    - "Lake View Seating Area"
+    - "Birds Feeding Area"
+    - "Hammock"
+    - "Bonfire Pit"
+

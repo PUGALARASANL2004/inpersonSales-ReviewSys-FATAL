@@ -1,0 +1,102 @@
+title: "Property Pre-Sales Call — SOP & Quality Rubric"
+total_points: 100
+
+criteria:
+  - id: opening_greeting
+    name: "Opening & Greeting"
+    description: "Professional greeting, brand intro, confirm prospect name; friendly tone."
+    max_points: 7
+    levels:
+      - { label: "Good",    points: 7, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 3, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: identity_consent
+    name: "Identity & Permission"
+    description: "Verifies who they’re speaking to and asks permission to proceed."
+    max_points: 7
+    levels:
+      - { label: "Good",    points: 7, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 3, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: needs_budget
+    name: "Discovery — Needs & Budget"
+    description: "Uncovers purpose, key needs, budget range, and financing readiness."
+    max_points: 11
+    levels:
+      - { label: "Good",    points: 11, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 5,  descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0,  descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: location_fit
+    name: "Fit — Location & Project Match"
+    description: "Validates preferred locations/commute and maps to suitable projects with rationale."
+    max_points: 9
+    levels:
+      - { label: "Good",    points: 9, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 4, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: timeline_urgency
+    name: "Timeline & Urgency"
+    description: "Identifies timeline, stakeholders, and visit availability."
+    max_points: 8
+    levels:
+      - { label: "Good",    points: 8, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 4, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: objection_handling
+    name: "Objection Handling"
+    description: "Acknowledges objections, responds with facts, and checks resolution."
+    max_points: 11
+    levels:
+      - { label: "Good",    points: 11, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 5,  descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0,  descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: value_prop
+    name: "Value Proposition & Differentiators"
+    description: "Articulates credible, verifiable differentiators relevant to the prospect."
+    max_points: 8
+    levels:
+      - { label: "Good",    points: 8, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 4, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: next_steps_cta
+    name: "Next Steps & CTA"
+    description: "Concrete ask (site visit, brochure, meeting) with time options and confirmation."
+    max_points: 14
+    levels:
+      - { label: "Good",    points: 14, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 7,  descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0,  descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: professionalism_tone
+    name: "Professionalism, Empathy & Tone"
+    description: "Polite, patient, empathetic, balanced talk-time; avoids interruptions and jargon."
+    max_points: 9
+    levels:
+      - { label: "Good",    points: 9, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 4, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: accuracy_compliance
+    name: "Accuracy & Compliance"
+    description: "No misleading claims; approvals stated factually; honors do-not-call/callback."
+    max_points: 9
+    levels:
+      - { label: "Good",    points: 9, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 4, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }
+
+  - id: summary_recap
+    name: "Recap of Key Details"
+    description: "Summarizes needs, options, objections handled, and agreed next step before closing."
+    max_points: 7
+    levels:
+      - { label: "Good",    points: 7, descriptors: ["Fully addressed with clear evidence in transcript"] }
+      - { label: "Neutral", points: 3, descriptors: ["Partially addressed; some evidence present"] }
+      - { label: "Bad",     points: 0, descriptors: ["Insufficient or missing evidence in transcript"] }

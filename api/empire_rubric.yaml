@@ -1,0 +1,174 @@
+title: "Empire Pre-Sales Call — Quality Rubric"
+total_points: 100
+
+criteria:
+  - id: greeting_intro
+    name: "Greeting & Introduced Self"
+    description: "Associate to greet the customer on time (within 3 seconds) and introduce self relevantly to the customer."
+    max_points: 2
+    levels:
+      - { label: "Yes", points: 2, descriptors: ["Prompt greeting", "Clear self-introduction with name", "Confirmed or asked for customer name", "Professional and courteous"] }
+      - { label: "No",  points: 0, descriptors: ["Delayed greeting", "Missing or unclear introduction", "No customer name confirmation", "Jumped straight to business"] }
+      - { label: "NA",  points: 2, descriptors: ["Not applicable to this call context"] }
+
+  - id: brand_intro
+    name: "Brand Intro"
+    description: "Introducing the brand name to the customer with pride."
+    max_points: 3
+    levels:
+      - { label: "Yes", points: 3, descriptors: ["Brand name clearly mentioned (any acceptable variation)", "Positive and proud tone", "Established credibility", "Enthusiastic delivery"] }
+      - { label: "No",  points: 0, descriptors: ["Brand name not mentioned", "Casual or disinterested tone", "No credibility establishment", "Lack of enthusiasm"] }
+      - { label: "NA",  points: 3, descriptors: ["Not applicable to this call context"] }
+
+  - id: purpose_of_call
+    name: "Purpose of Call"
+    description: "Associate to inform the purpose why he/she has called the customer."
+    max_points: 2
+    levels:
+      - { label: "Yes", points: 2, descriptors: ["Clear statement of call purpose", "Explained call objective", "Connected to customer enquiry or interest", "Customer understands why agent called"] }
+      - { label: "No",  points: 0, descriptors: ["Purpose unclear or missing", "No explanation of objective", "Assumed customer knows purpose", "Confusing or vague"] }
+      - { label: "NA",  points: 2, descriptors: ["Not applicable to this call context"] }
+
+  - id: reaching_decision_maker
+    name: "Reaching Decision Maker/RPC"
+    description: "Reaching Decision Maker/RPC for the better conversation with the customer."
+    max_points: 2
+    levels:
+      - { label: "Yes", points: 2, descriptors: ["Confirmed customer identity or name", "Got confirmation they're speaking to right person", "Verified decision maker status or correct contact", "Customer confirmed they are the right person"] }
+      - { label: "No",  points: 0, descriptors: ["No verification of customer identity", "Didn't confirm customer name or identity", "Speaking to wrong person", "Assumed without checking"] }
+      - { label: "NA",  points: 2, descriptors: ["Not applicable to this call context"] }
+
+  - id: 
+    name: "Effective Probing"
+    description: "Associate to effectively probe the customer need and want and ask at least some open-ended probing questions. The probing does not have to go very deep; it is enough if the associate reasonably understands the customer's basic needs (like budget, size, purpose, and/or timeline) through a mix of questions, with at least a few of them being open-ended."
+    max_points: 12
+    levels:
+      - { label: "Yes", points: 12, descriptors: ["Asked about budget and/or size", "At least some open-ended questions", "Reasonably probed budget, size, purpose, or timeline (not necessarily all)", "Showed an attempt to understand customer needs", "Used at least a few open-ended question formats"] }
+      - { label: "No",  points: 0, descriptors: ["Only closed-ended questions", "Insufficient probing even for basic needs", "Completely missing key areas (budget/timeline/purpose/size)", "Rushed through without trying to understand needs"] }
+      - { label: "NA",  points: 12, descriptors: ["Not applicable to this call context"] }
+
+  - id: project_knowledge
+    name: "Project Knowledge"
+    description: "Associate’s knowledge on the project should be **strictly** aligned with the official project reckoner (empire_extracted_data.json). For this parameter, **strictly** validate all the project details ( like location, approvals, plot sizes, pricing, amenities and key USPs) said by the associate against the reckoner; any mismatches or false information should lead to a 'No'."
+    max_points: 12
+    levels:
+      - { label: "Yes", points: 12, descriptors: ["Accurate location details", "Correct project details", "Accurate plot sizes and pricing", "Location directions or landmarks mentioned", "Features and amenities discussed", "Approval status mentioned or implied"] }
+      - { label: "No",  points: 0, descriptors: ["Incorrect information", "Uncertain about details", "Vague or incomplete project details", "Cannot discuss project comprehensively", "Lacks comprehensive knowledge"] }
+      - { label: "NA",  points: 12, descriptors: ["Not applicable to this call context"] }
+
+  - id: objection_handling
+    name: "Objection Handling"
+    description: "Handling objections with the customer confidently."
+    max_points: 12
+    levels:
+      - { label: "Yes", points: 12, descriptors: ["Acknowledged objections confidently", "Provided relevant facts", "Addressed concerns directly", "Checked if resolved", "Maintained positive attitude", "Not defensive"] }
+      - { label: "No",  points: 0, descriptors: ["Avoided objections", "Didn't address concerns", "Lacked confidence", "No resolution attempt"] }
+      - { label: "NA",  points: 12, descriptors: ["No objections raised during call"] }
+
+  - id: follow_up
+    name: "Follow Up"
+    description: "Keep a good track and follow up with the interested / opportunity customer."
+    max_points: 12
+    levels:
+      - { label: "Yes", points: 12, descriptors: ["Asked for site visit or next steps", "Got alternative contacts", "Asked about visit timing or scheduled appointment", "Mentioned booking advance if applicable", "Confirmed communication method for sharing details", "Tracked customer interest", "Committed to follow up"] }
+      - { label: "No",  points: 0, descriptors: ["No follow-up plan", "Didn't ask for site visit", "Didn't track interest", "No next steps", "No commitment", "Lost opportunity", "No scheduling", "Didn't get alternative contacts"] }
+      - { label: "NA",  points: 12, descriptors: ["Customer not interested, no opportunity"] }
+
+  - id: call_control
+    name: "Call Control"
+    description: "Ownership of the call to be taken from agent side; there must always be a two-way conversation with the customer."
+    max_points: 5
+    levels:
+      - { label: "Yes", points: 5, descriptors: ["Agent took ownership", "Two-way conversation", "Balanced dialogue", "Guided flow appropriately", "Engaged customer", "Focused on objectives"] }
+      - { label: "No",  points: 0, descriptors: ["One-sided conversation", "Lost control", "Didn't engage customer", "Too much talking", "No listening", "Unfocused"] }
+      - { label: "NA",  points: 5, descriptors: ["Not applicable to this call context"] }
+
+  - id: disposition
+    name: "Disposition"
+    description: "Stage movement of the leads provided. Associate is always responsible for the correct stage movement. Associate must correctly categorize call outcome and ensure proper stage movement of leads. Must use correct disposition categories (Qualified/Opportunity/RNR/Not Interested).Here Na rarely occcurs, because some how the call will have a conclusion, na occurs only when sudden call cut happens and things like that.  If not applicable for the call context, score 'NA'."
+    max_points: 5
+    levels:
+      - { label: "Yes", points: 5, descriptors: ["Correct categorization", "Proper stage movement", "Appropriate next steps", "Responsible handling", "Accurate lead status"] }
+      - { label: "No",  points: 0, descriptors: ["Wrong categorization", "No stage movement", "Incorrect next steps", "Irresponsible handling", "Inaccurate status"] }
+      - { label: "NA",  points: 5, descriptors: ["Not applicable to this call context"] }
+
+  - id: enthusiasm
+    name: "Enthusiasm"
+    description: "Call should be energetic enough to convince the customer and to make the conversation interesting and engaging, and it should be maintained throughout the call. **Tolerate** flat or low energy upto 40% of the call."
+    max_points: 3
+    levels:
+      - { label: "Yes", points: 3, descriptors: ["High energy throughout", "Excited about product", "Engaging delivery", "Generated interest", "Upbeat tone", "Passionate"] }
+      - { label: "No",  points: 0, descriptors: ["Low energy", "Bored or monotone", "Disinterested", "Failed to engage", "Dull delivery", "No passion"] }
+      - { label: "NA",  points: 3, descriptors: ["Not applicable to this call context"] }
+
+  - id: active_listening
+    name: "Active Listening"
+    description: "Associate should always listen to the customer without interruption and not make the customer repeat what he spoke; in case the associate didn’t listen to what the customer spoke, he/she should apologize and ask to repeat. The associate should be answering the customer needs and address them."
+    max_points: 3
+    levels:
+      - { label: "Yes", points: 3, descriptors: ["No interruptions", "Acknowledged responses", "Relevant follow-ups", "No unnecessary repetition", "Referenced earlier statements", "Apologized if needed"] }
+      - { label: "No",  points: 0, descriptors: ["Frequent interruptions", "Made customer repeat", "No acknowledgment", "Irrelevant questions", "Didn't listen", "No apology when needed"] }
+      - { label: "NA",  points: 3, descriptors: ["Not applicable to this call context"] }
+
+  - id: confidence
+    name: "Confidence"
+    description: "Throughout the call associate should reflect confidence without bumbling in the call. **Tolerate** minor hesitation upto 20% of the call."
+    max_points: 5
+    levels:
+      - { label: "Yes", points: 5, descriptors: ["Confident tone throughout", "No hesitation", "Clear and decisive", "No stuttering", "Certain in knowledge", "Professional assertiveness"] }
+      - { label: "No",  points: 0, descriptors: ["Frequent hesitation", "Stuttering or fumbling", "Uncertain tone", "Lacks confidence", "Nervous", "Indecisive"] }
+      - { label: "NA",  points: 5, descriptors: ["Not applicable to this call context"] }
+
+  - id: professional
+    name: "Professional"
+    description: "Associate **strictly** should be professional in call, **strictly** avoid unprofessional words, and phrases like mm, han, ah…, uh, avoid coughing, snoring, stuttering, and background noise in call. Place the call on hold or mute if required."
+    max_points: 5
+    levels:
+      - { label: "Yes", points: 5, descriptors: ["No filler words (mm/han/ah)", "Clean audio", "Professional language", "Appropriate hold/mute use", "No background noise", "No unprofessional sounds"] }
+      - { label: "No",  points: 0, descriptors: ["Excessive fillers", "Background noise", "Coughing/snoring", "Unprofessional language", "Poor audio handling", "Distracting sounds"] }
+      - { label: "NA",  points: 5, descriptors: ["Not applicable to this call context"] }
+
+  - id: language_grammar
+    name: "Language and Grammar"
+    description: "Words and sentences selected by the associate should be appropriate and reflect the proper language, words like mm, han, ah…, uh, can be tolerated, but not excessive. Tolerate minor language or grammar errors upto 20% of the call. Tamil–English mixing is **allowed**, as long as it feels natural for the customer and does not make the language sound clearly broken or unprofessional overall."
+    max_points: 5
+    levels:
+      - { label: "Yes", points: 5, descriptors: ["Generally proper grammar in the mixed Tamil/English the customer uses", "Appropriate vocabulary", "Professional word choice", "Clear sentences", "Respectful language", "No inappropriate slang", "Code-mixing that still sounds natural and professional to the customer"] }
+      - { label: "No",  points: 0, descriptors: ["Consistently poor grammar", "Inappropriate words", "Unprofessional vocabulary", "Unclear sentences", "Inappropriate slang", "Disrespectful language", "Language so broken that it is hard to follow, even with Tamil–English mixing allowed"] }
+      - { label: "NA",  points: 5, descriptors: ["Not applicable to this call context"] }
+
+  - id: clarity_speech
+    name: "Clarity of Speech"
+    description: "There should be clarity in speech, meaning the message should be clearly understood by the customer. If the customer understood and replied relevant to the statement or question, mark 'yes'. If the customer did not understand or replied irrelevant to the statement or question, mark 'no'. Tolerate minor mistakes upto 20% of the call. Tamil–English mixing is **allowed**; only mark 'no' if mixing plus other factors (speed, mumbling, etc.) clearly make it difficult for the customer to understand."
+    max_points: 4
+    levels:
+      - { label: "Yes", points: 4, descriptors: ["Clear enunciation", "Balanced pace", "Easy to understand", "Appropriate speed", "No rushing", "No mumbling"] }
+      - { label: "No",  points: 0, descriptors: ["Unclear speech", "Too fast/rushing", "Too slow", "Mumbling", "Difficult to understand", "Poor articulation"] }
+      - { label: "NA",  points: 4, descriptors: ["Not applicable to this call context"] }
+
+  - id: tone_voice
+    name: "Tone and Voice Modulation"
+    description: "Tone and voice modulation to be controlled by associate in call. Only mark 'no' if the associate is using harsh, rude, abusive or aggressive words, a raised/angry tone, or disrespect toward the customer (for example, shouting, arguing, mocking, or clearly irritated delivery), until then mark 'yes'."
+    max_points: 4
+    levels:
+      - { label: "Yes", points: 4, descriptors: ["Appropriate tone", "Effective modulation", "Engaging delivery", "Variation in pitch/pace", "Professional yet warm", "Emphasized key points"] }
+      - { label: "No",  points: 0, descriptors: ["Monotone", "Inappropriate tone", "No modulation", "Flat delivery", "Tone mismatch", "No emphasis"] }
+      - { label: "NA",  points: 4, descriptors: ["Not applicable to this call context"] }
+
+  - id: thanking_customer
+    name: "Thanking Customer"
+    description: "Thank the customer for spending the time if applicable."
+    max_points: 2
+    levels:
+      - { label: "Yes", points: 2, descriptors: ["Genuine appreciation", "Thanked for time", "Thanked for enquiry", "Appropriate timing"] }
+      - { label: "No",  points: 0, descriptors: ["No thanks given", "Insincere", "Inappropriate timing", "Rushed ending"] }
+      - { label: "NA",  points: 2, descriptors: ["Call ended abruptly", "Customer was rude", "Not applicable"] }
+
+  - id: closing_script
+    name: "Closing Script"
+    description: "Follow proper closing script with brand name ( Adithyaram group or Adithya Ram Properties or mention of Adithya Ram in any form); closing of the call must have brand name. Even if any vague mentions, like ... properties are present, mark 'yes'. If brand name is not mentioned at all, mark 'no', even if greeted the customer but not mentioned the brand name in the closing script."
+    max_points: 2
+    levels:
+      - { label: "Yes", points: 2, descriptors: ["Brand name in BOTH opening AND closing", "Positive closing statement with brand name", "Proper closing script", "Acceptable variations of brand name (Adityaram/Adithiram Property/Properties)"] }
+      - { label: "No",  points: 0, descriptors: ["Brand name missing in opening OR closing", "No proper closing statement", "Improper closing", "No closing script"] }
+      - { label: "NA",  points: 2, descriptors: ["Not applicable to this call context"] }
